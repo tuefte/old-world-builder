@@ -1,0 +1,6666 @@
+{
+  "global": {
+    "0-1 unit per 1000 points": {
+      "name_de": "0-1 Einheit pro 1000 Punkte",
+      "name_fr": "0-1 unité par tranche de 1000 points",
+      "name_es": ""
+    },
+    "Additional hand weapon": {
+      "name_de": "Zusätzliche Handwaffe",
+      "name_fr": "Arme de base additionnelle",
+      "name_es": "Arma de mano adicional"
+    },
+    "Ambushers": {
+      "name_de": "Überfall",
+      "name_fr": "Embusqueurs",
+      "name_es": "Emboscadoras"
+    },
+    "Barding": {
+      "name_de": "Rossharnisch",
+      "name_fr": "Caparaçon",
+      "name_es": "bardas"
+    },
+    "Battle Standard Bearer": {
+      "name_de": "Armeestandartenträger",
+      "name_fr": "Porteur de la Grande Bannière",
+      "name_es": "Portaestandarte de Batalla"
+    },
+    "Close Order": {
+      "name_de": "Geschlossene Ränge",
+      "name_fr": "Ordre Serré",
+      "name_es": "Formación Cerrada"
+    },
+    "Counter Charge": {
+      "name_de": "Gegenangriff",
+      "name_fr": "Contre-charge",
+      "name_es": "Contracarga"
+    },
+    "Crossbows": {
+      "name_de": "Armbrüste",
+      "name_fr": "Arbalètes",
+      "name_es": "Ballestas"
+    },
+    "Detachment": {
+      "name_de": "Abteilung",
+      "name_fr": "Détachement",
+      "name_es": "Destacamento"
+    },
+    "Drilled": {
+      "name_de": "Gut ausgebildet",
+      "name_fr": "Bien Entraînés",
+      "name_es": "Entrenado"
+    },
+    "Fast Cavalry": {
+      "name_de": "Wendige Kavallerie",
+      "name_fr": "Cavalerie Rapide",
+      "name_es": "Caballería Rápida"
+    },
+    "Feigned Flight": {
+      "name_de": "Vorgetäuschte Flucht",
+      "name_fr": "Fuite Feinte",
+      "name_es": "Falsa retirada"
+    },
+    "Fire & Flee": {
+      "name_de": "Fire & flee",
+      "name_fr": "Tir & Fuite",
+      "name_es": "Disparar y huir"
+    },
+    "First Charge": {
+      "name_de": "Erster Angriff",
+      "name_fr": "Première Charge",
+      "name_es": "Primera Carga"
+    },
+    "Fly (10)": {
+      "name_de": "Fliegen (10)",
+      "name_fr": "Vol (10)",
+      "name_es": "Volar (10)"
+    },
+    "Full plate armour": {
+      "name_de": "Plate",
+      "name_fr": "Armure de plate complète",
+      "name_es": "Armadura completa"
+    },
+    "Furious Charge": {
+      "name_de": "Rasender Angriff",
+      "name_fr": "Charge Dévastatrice",
+      "name_es": "Carga Devastadora"
+    },
+    "General": {
+      "name_de": "",
+      "name_fr": "Général",
+      "name_es": ""
+    },
+    "Great weapon": {
+      "name_de": "Zweihandwaffe",
+      "name_fr": "Arme lourde",
+      "name_es": "Arma a dos manos"
+    },
+    "Great weapons": {
+      "name_de": "Zweihandwaffen",
+      "name_fr": "Armes lourdes",
+      "name_es": "Armas a dos manos"
+    },
+    "Halberd": {
+      "name_de": "Hellebarde",
+      "name_fr": "Hallebarde",
+      "name_es": "Alabarda"
+    },
+    "Hand weapon": {
+      "name_de": "Handwaffe",
+      "name_fr": "Arme de base",
+      "name_es": "Arma de mano"
+    },
+    "Hand weapons": {
+      "name_de": "Handwaffen",
+      "name_fr": "Armes de base",
+      "name_es": "Armas de mano"
+    },
+    "Heavy armour": {
+      "name_de": "Schwere Rüstung",
+      "name_fr": "Armure lourde",
+      "name_es": "Armadura pesada"
+    },
+    "Immune to Psychology": {
+      "name_de": "Immun gegen Psychologie",
+      "name_fr": "Immunisé à la Psychologie",
+      "name_es": "Inmune a la Psicología"
+    },
+    "Impetuous": {
+      "name_de": "Ungestüm",
+      "name_fr": "Impétueux",
+      "name_es": "Impetuoso"
+    },
+    "Lance": {
+      "name_de": "Lanze",
+      "name_fr": "Lance de joute",
+      "name_es": "Lanza de caballería"
+    },
+    "Lances": {
+      "name_de": "Lanzen",
+      "name_fr": "Lances de joute",
+      "name_es": "Lanzas de caballería"
+    },
+    "Level 2 Wizard": {
+      "name_de": "Stufe 2 Zauberer",
+      "name_fr": "Sorcier de Niveau 2",
+      "name_es": "Hechicero de Nivel 2"
+    },
+    "Level 4 Wizard": {
+      "name_de": "Stufe 4 Zauberer",
+      "name_fr": "Sorcier de Niveau 4",
+      "name_es": "Hechicero de Nivel 4"
+    },
+    "Light armour": {
+      "name_de": "Leichte Rüstung",
+      "name_fr": "Armure légère",
+      "name_es": "Armadura ligera"
+    },
+    "Magic Items": {
+      "name_de": "Magische Gegenstände",
+      "name_fr": "Objets Magiques",
+      "name_es": "Objetos Mágicos"
+    },
+    "Magic Resistance (-1)": {
+      "name_de": "Magieresistenz (-1)",
+      "name_fr": "Résistance à la Magie (-1)",
+      "name_es": "Resistencia a la Magia (-1)"
+    },
+    "Motley Crew": {
+      "name_de": "Zusammengewürfelter Haufen",
+      "name_fr": "Bande Hétéroclite",
+      "name_es": ""
+    },
+    "Move Through Cover": {
+      "name_de": "Durch Deckung bewegen",
+      "name_fr": "Mouvement à Couvert",
+      "name_es": "Mover a Través de Cobertura"
+    },
+    "Musician": {
+      "name_de": "Musiker",
+      "name_fr": "Musicien",
+      "name_es": "Músico"
+    },
+    "On foot": {
+      "name_de": "Zu fuß",
+      "name_fr": "À Pied",
+      "name_es": "A pie"
+    },
+    "Open Order": {
+      "name_de": "Offene Ränge",
+      "name_fr": "Ordre Dispersé",
+      "name_es": "Formación Abierta"
+    },
+    "Rallying Cry": {
+      "name_de": "Sammelruf",
+      "name_fr": "Cri de Ralliement",
+      "name_es": "Grito de Guerra"
+    },
+    "Regimental Unit": {
+      "name_de": "Hauptregiment",
+      "name_fr": "Unité Régimentaire",
+      "name_es": "Unidad Regimental"
+    },
+    "Scouts": {
+      "name_de": "Kundschafter",
+      "name_fr": "Éclaireurs",
+      "name_es": "Exploradores"
+    },
+    "Shield": {
+      "name_de": "Schild",
+      "name_fr": "Bouclier",
+      "name_es": "Escudo"
+    },
+    "Shields": {
+      "name_de": "Schilde",
+      "name_fr": "Boucliers",
+      "name_es": "Escudos"
+    },
+    "Shieldwall": {
+      "name_de": "Schildwall",
+      "name_fr": "Mur de Boucliers",
+      "name_es": "Muralla de escudos"
+    },
+    "Skirmishers": {
+      "name_de": "Plänkler",
+      "name_fr": "Tirailleurs",
+      "name_es": "Hostigadores"
+    },
+    "Standard bearer": {
+      "name_de": "Standartenträger",
+      "name_fr": "Porte-étendard",
+      "name_es": "Portaestandarte"
+    },
+    "Stubborn": {
+      "name_de": "Unnachgiebig",
+      "name_fr": "Obstiné",
+      "name_es": "Zancada Veloz"
+    },
+    "Swiftstride": {
+      "name_de": "Schnelle Bewegung",
+      "name_fr": "Rapide",
+      "name_es": "Veterano"
+    },
+    "Terror": {
+      "name_de": "Entsetzen",
+      "name_fr": "Terreur",
+      "name_es": "Valor de las eras"
+    },
+    "Thrusting spears": {
+      "name_de": "Stoßspeere",
+      "name_fr": "Lances d'infanterie",
+      "name_es": "Lanzas (infantería)"
+    },
+    "Unbreakable": {
+      "name_de": "Unerschütterlich",
+      "name_fr": "Indémoralisable",
+      "name_es": "Indesmoralizable"
+    },
+    "Vanguard": {
+      "name_de": "Vorhut",
+      "name_fr": "Avant-garde",
+      "name_es": "Vanguardia"
+    },
+    "Veteran": {
+      "name_de": "Veteranen",
+      "name_fr": "Vétérans",
+      "name_es": "Veterano"
+    }
+  },
+  "files": {
+    "dwarfen-mountain-holds.json": {
+      "\"Dig In!\"": {
+        "name_de": "„Eingraben!“",
+        "name_es": "",
+        "name_fr": "\"Creusez!\""
+      },
+      "\"Fight Me!\" (Giant Slayer)": {
+        "name_de": "\"Trau dich!\" (Riesenslayer)",
+        "name_es": "",
+        "name_fr": "\"Affronte-moi!\" (Tueur de Géant)"
+      },
+      "\"Stand Back Chief\"": {
+        "name_de": "\"Bleibt in Deckung",
+        "name_es": "",
+        "name_fr": "\"Restez en Retrait Chef\""
+      },
+      "0-1 Anvil of Doom or Runelord per 1000 points": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "0-1 Enclume du Destin ou Seigneur Forgerune par tranche de 1000 points"
+      },
+      "0-1 Daemon Slayer or Dragon Slayer": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "0-1 Tueur de Démons ou Tueur de Dragons"
+      },
+      "0-1 Goblin-Hewer per 1000 points": {
+        "name_de": "0-1 Goblinschnitter pro 1000 Punkte",
+        "name_es": "",
+        "name_fr": "0-1 Faucheuse de Gobelins par tranche de 1000 points"
+      },
+      "0-1 Goblin-Hewer per 1000 points if your army includes 1+ Slayer of Legend": {
+        "name_de": "0-1 Goblinschnitter pro 1000 Punkte",
+        "name_es": "",
+        "name_fr": "0-1 Faucheuse de Gobelins par tranche de 1000 points si votre armée inclut 1+ Tueur de Légende"
+      },
+      "0-1 King": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "0-1 Roi"
+      },
+      "0-1 unit of Dwarf Warriors per 1000 points may purchase Standard runes": {
+        "name_de": "0-1 Einheit Zwergenkrieger pro 1000 Punkte kann Standartenrunen erwerben",
+        "name_es": "",
+        "name_fr": "0-1 unité de Guerriers Nains par tranche de 1000 points peut acheter des runes de Bannière"
+      },
+      "0-1 unit of Hammerers per King or Thane taken": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "0-1 unité de Marteliers par Roi ou Thane pris"
+      },
+      "0-1 unit of Imperial Dwarf Mercenaries per 1000 points may purchase Standard runes": {
+        "name_de": "0-1 Einheit Imperiale Zwergensöldner pro 1000 Punkte kann Standartenrunen erwerben",
+        "name_es": "",
+        "name_fr": "0-1 unité de Mercenaires Nains Impériaux par tranche de 1000 points peut acheter des runes de Bannière"
+      },
+      "0-1 unit of Ironbreakers per 1000 points may purchase Standard runes": {
+        "name_de": "0-1 Einheit Eisenbrecher pro 1000 Punkte kann Standartenrunen erwerben",
+        "name_es": "",
+        "name_fr": "0-1 unité de Brise-fer par tranche de 1000 points peut acheter des runes de Bannière"
+      },
+      "0-1 unit of Irondrakes per 1000 points may purchase Standard runes": {
+        "name_de": "0-1 Einheit Eisendrachen pro 1000 Punkte kann Standartenrunen erwerben",
+        "name_es": "",
+        "name_fr": "0-1 unité de Dracs de Fer par tranche de 1000 points peut acheter des runes de Bannière"
+      },
+      "0-1 unit of Longbeards may be taken as a Core choice": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "0-1 unité de Longues-barbes peut être prise comme choix d'Unité de Base"
+      },
+      "0-1 unit of Miners per 1000 points may purchase Standard runes": {
+        "name_de": "0-1 Einheit Bergwerker pro 1000 Punkte kann Standartenrunen erwerben",
+        "name_es": "",
+        "name_fr": "0-1 unité de Mineurs par tranche de 1000 points peut acheter des runes de Bannière"
+      },
+      "0-1 unit of Rangers may be taken as a Core choice": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "0-1 unité de Rangers peut être prise comme choix d'Unité de Base"
+      },
+      "0-1 unit of Rangers per 1000 points": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "0-1 unité de Rangers par tranche de 1000 points"
+      },
+      "0-1 unit of Scout Gyrocopters per 1000 points may be taken as a Core choice": {
+        "name_de": "0-1 Einheit Kundschafter-Gyrokopter darf pro 1000 Punkte als Kernauswahl gewählt werden",
+        "name_es": "",
+        "name_fr": "0-1 unité de Gyrocoptères de Reconnaissance par tranche de 1000 points peut être prise comme choix d'Unité de Base"
+      },
+      "0-1 unit of Slayers per 1000 points if your general is Ungrim Ironfist": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "0-1 unité de Tueurs par tranche de 1000 points si votre général est Ungrim Poing-de-Fer"
+      },
+      "0-1 unit of Slayers per army": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "0-1 unité de Tueurs par armée"
+      },
+      "0-2 Doomseeker per 1000 points": {
+        "name_de": "0-2 Dammaz Drengi pro 1000 Punkte",
+        "name_es": "",
+        "name_fr": "0-2 Cherche-mort par tranche de 1000 points"
+      },
+      "0-2 Organ Guns or Flame Cannons per 1000 points": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "0-2 Canons-orgue ou Canons à Flammes par tranche de 1000 points"
+      },
+      "0-3 Bolt Throwers": {
+        "name_de": "0-3 Speerschleudern",
+        "name_es": "",
+        "name_fr": "0-3 Balistes"
+      },
+      "0-3 Bolt Throwers or Grudge Throwers per 1000 points": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "0-3 Balistes ou Catapultes à Rancunes par tranche de 1000 points"
+      },
+      "0-3 Doomseeker per army": {
+        "name_de": "0-3 Dammaz Drengi pro Armee",
+        "name_es": "",
+        "name_fr": "0-3 Cherche-mort par armée"
+      },
+      "0-4 Doomseeker per 1000 points if your general is Ungrim Ironfist": {
+        "name_de": "0-4 Dammaz Drengi pro 1000 Punkte",
+        "name_es": "",
+        "name_fr": "0-4 Cherche-mort par tranche de 1000 points si votre général est Ungrim Poing-de-Fer"
+      },
+      "0-4 Doomseeker per army": {
+        "name_de": "0-4 Dammaz Drengi pro Armee",
+        "name_es": "",
+        "name_fr": "0-4 Cherche-mort par armée"
+      },
+      "0-4 Dwarf Carts per army": {
+        "name_de": "0-4 Zwergenkarren pro armee",
+        "name_es": "",
+        "name_fr": "0-4 Chariots Nains par armée"
+      },
+      "1+ Engineer or Engineer Sapper": {
+        "name_de": "1+ Maschinist oder Sappeur-Maschinist",
+        "name_es": "",
+        "name_fr": "1+ Ingénieur ou Ingénieur Sapeur"
+      },
+      "1+ King or Thane": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "1+ Roi ou Thane"
+      },
+      "Additional Dragon Company Troopers": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Soldats de la Compagnie Dragon additionnels"
+      },
+      "Additional hand weapons": {
+        "name_de": "Zusätzliche Handwaffen",
+        "name_es": "",
+        "name_fr": "Armes de base additionnelles"
+      },
+      "Ancestral Grudge": {
+        "name_de": "Erbfeindschaft",
+        "name_es": "",
+        "name_fr": "Rancune Ancestrale"
+      },
+      "Ancestral Shield": {
+        "name_de": "Schild der Ahnen",
+        "name_es": "",
+        "name_fr": "Bouclier Ancestral"
+      },
+      "Anvil of Doom": {
+        "name_de": "Runenamboss",
+        "name_es": "",
+        "name_fr": "Enclume du Destin"
+      },
+      "Anvil of Doom or Runelord per 1000 points": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Enclume du Destin ou Seigneur Forgerune par tranche de 1000 points"
+      },
+      "Armour Bane (1)": {
+        "name_de": "Rüstungsfluch (1)",
+        "name_es": "",
+        "name_fr": "Arme Perforante (1)"
+      },
+      "Armoured fuselage": {
+        "name_de": "Panzerrumpf",
+        "name_es": "",
+        "name_fr": "Fuselage blindé"
+      },
+      "Artillery Master": {
+        "name_de": "Geschützmeister",
+        "name_es": "",
+        "name_fr": "Maître de l'Artillerie"
+      },
+      "Blasting Charges": {
+        "name_de": "Sprengladungen",
+        "name_es": "",
+        "name_fr": "Charges de démolition"
+      },
+      "Bolt Thrower {dwarfs}": {
+        "name_de": "Speerschleuder",
+        "name_es": "",
+        "name_fr": "Baliste"
+      },
+      "Bolt thrower": {
+        "name_de": "Speerschleuder",
+        "name_es": "",
+        "name_fr": "Baliste"
+      },
+      "Bombing Run": {
+        "name_de": "Bombenangriff",
+        "name_es": "",
+        "name_fr": "Bombardement"
+      },
+      "Borri Forkbeard (champion)": {
+        "name_de": "Borri Gabelbart (Champion)",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Brace of drakefire pistols": {
+        "name_de": "Drachenpistolenpaar",
+        "name_es": "",
+        "name_fr": "Paire de pistolets drac de feu"
+      },
+      "Brace of pistols": {
+        "name_de": "Pistolenpaar",
+        "name_es": "",
+        "name_fr": "Plusieurs pistolets"
+      },
+      "Brimstone gun": {
+        "name_de": "Schwefelkanone",
+        "name_es": "",
+        "name_fr": "Canon à soufre"
+      },
+      "Brimstone guns": {
+        "name_de": "Schwefelkanone",
+        "name_es": "",
+        "name_fr": "Canon à soufre"
+      },
+      "Bugman's Cart": {
+        "name_de": "Bugmans-Karren",
+        "name_es": "",
+        "name_fr": "Chariot de Bugman"
+      },
+      "Burlok Damminson": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Cannon": {
+        "name_de": "Kanone",
+        "name_es": "",
+        "name_fr": "Canon"
+      },
+      "Cannon {dwarfs}": {
+        "name_de": "Kanone",
+        "name_es": "",
+        "name_fr": "Canon"
+      },
+      "Cinderblast bombs": {
+        "name_de": "Zwergengranaten",
+        "name_es": "",
+        "name_fr": "Grenades à cendrée"
+      },
+      "Clattergun": {
+        "name_de": "Ratterkanone",
+        "name_es": "",
+        "name_fr": "Canon crépiteur"
+      },
+      "Clatterguns": {
+        "name_de": "Ratterkanone",
+        "name_es": "",
+        "name_fr": "Canon crépiteur"
+      },
+      "Crossbow": {
+        "name_de": "Armbrust",
+        "name_es": "",
+        "name_fr": "Arbalète"
+      },
+      "Daemon Slayer": {
+        "name_de": "Dämonenslayer",
+        "name_es": "",
+        "name_fr": "Tueur de Démons"
+      },
+      "Deathblow": {
+        "name_de": "Letzter Hieb",
+        "name_es": "",
+        "name_fr": "Ultime Attaque"
+      },
+      "Dive Bomb": {
+        "name_de": "Bombenabwurf",
+        "name_es": "",
+        "name_fr": "Largage en Piqué"
+      },
+      "Doomseeker": {
+        "name_de": "Dammaz Drengi",
+        "name_es": "",
+        "name_fr": "Cherche-mort"
+      },
+      "Doomseeker {dwarfs}": {
+        "name_de": "Dammaz Drengi",
+        "name_es": "",
+        "name_fr": "Cherche-mort"
+      },
+      "Dragon Slayer": {
+        "name_de": "Drachenslayer",
+        "name_es": "",
+        "name_fr": "Tueur de Dragons"
+      },
+      "Dragonblade (Prince Ulther)": {
+        "name_de": "Drachenklinge (Prinz Ulther)",
+        "name_es": "",
+        "name_fr": "Lame Dragon (Prince Ulther)"
+      },
+      "Drakegun": {
+        "name_de": "Drachenmuskete",
+        "name_es": "",
+        "name_fr": "Canon drac de feu"
+      },
+      "Drakeguns": {
+        "name_de": "Drachenmusketen",
+        "name_es": "",
+        "name_fr": "Canons dracs de feu"
+      },
+      "Dwarf Cart": {
+        "name_de": "Zwergenkarren",
+        "name_es": "",
+        "name_fr": "Chariot Nain"
+      },
+      "Dwarf Crafted": {
+        "name_de": "Zwergengefertigt",
+        "name_es": "",
+        "name_fr": "Facture Naine"
+      },
+      "Dwarf Warriors": {
+        "name_de": "Zwergenkrieger",
+        "name_es": "",
+        "name_fr": "Guerriers Nains"
+      },
+      "Elder (champion)": {
+        "name_de": "Ältester (Champion)",
+        "name_es": "",
+        "name_fr": "Vieille-barbe (champion)"
+      },
+      "Engineer": {
+        "name_de": "Maschinist",
+        "name_es": "",
+        "name_fr": "Ingénieur"
+      },
+      "Engineer Sapper": {
+        "name_de": "Sappeur-Maschinist",
+        "name_es": "",
+        "name_fr": "Ingénieur Sapeur"
+      },
+      "Engineering Runes": {
+        "name_de": "Maschinenrunen",
+        "name_es": "",
+        "name_fr": "Runes d'Ingéniérie"
+      },
+      "Entrenchment": {
+        "name_de": "Befestigen",
+        "name_es": "",
+        "name_fr": "Retranchement"
+      },
+      "Expeditionary Force only": {
+        "name_de": "Nur Expeditionsstreitmacht",
+        "name_es": "",
+        "name_fr": "Corps Expéditionnaires uniquement"
+      },
+      "Expeditionary Marksman": {
+        "name_de": "Expeditionsschützen",
+        "name_es": "",
+        "name_fr": "Tireur d'Élite Expéditionnaire"
+      },
+      "Expeditionary Marksmen": {
+        "name_de": "Expeditionsschützen",
+        "name_es": "",
+        "name_fr": "Tireurs d'Élite Expéditionnaires"
+      },
+      "Extended Formation": {
+        "name_de": "Erweiterte Formation",
+        "name_es": "",
+        "name_fr": "Formation Étendue"
+      },
+      "Fire thrower": {
+        "name_de": "Flammenwerfer",
+        "name_es": "",
+        "name_fr": "Lance-flammes"
+      },
+      "First to the Fray": {
+        "name_de": "Erster im Getümmel",
+        "name_es": "",
+        "name_fr": "Premier au Combat"
+      },
+      "Flame Cannon": {
+        "name_de": "Flammenkanone",
+        "name_es": "",
+        "name_fr": "Canon à Flammes"
+      },
+      "Fly (8)": {
+        "name_de": "Fliegen (8)",
+        "name_es": "",
+        "name_fr": "Vol (8)"
+      },
+      "Fly (9)": {
+        "name_de": "Fliegen (9)",
+        "name_es": "",
+        "name_fr": "Vol (9)"
+      },
+      "Forgefire": {
+        "name_de": "Schmiedefeuer",
+        "name_es": "",
+        "name_fr": "Forgefeu"
+      },
+      "Furnace hammer": {
+        "name_de": "Hammer der Esse",
+        "name_es": "",
+        "name_fr": "Marteau fournaise"
+      },
+      "Giant Slayers": {
+        "name_de": "Riesenslayer",
+        "name_es": "",
+        "name_fr": "Tueurs de Géants"
+      },
+      "Goblin-Hewer": {
+        "name_de": "Goblinschnitter",
+        "name_es": "",
+        "name_fr": "Faucheuse de Gobelins"
+      },
+      "Goblin-hewer": {
+        "name_de": "Goblinschnitter",
+        "name_es": "",
+        "name_fr": "Faucheuse de Gobelins"
+      },
+      "Great hammers": {
+        "name_de": "Zweihandhämmer",
+        "name_es": "",
+        "name_fr": "Grands marteaux"
+      },
+      "Great weapon (Borri Forkbeard)": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Arme lourde (Borri Forkbeard)"
+      },
+      "Gromril Armour": {
+        "name_de": "Gromrilrüstung",
+        "name_es": "",
+        "name_fr": "Armure en Gromril"
+      },
+      "Gromril Weapons": {
+        "name_de": "Gromrilwaffen",
+        "name_es": "",
+        "name_fr": "Armes en Gromril"
+      },
+      "Gromril great axes": {
+        "name_de": "Gromriläxte",
+        "name_es": "",
+        "name_fr": "Grandes haches de gromril"
+      },
+      "Grudge Thrower": {
+        "name_de": "Grollschleuder",
+        "name_es": "",
+        "name_fr": "Catapulte à Rancunes"
+      },
+      "Grudge Throwers or Cannons per 1000 points": {
+        "name_de": "Grollschleuder oder Kanonen pro 1000 Punkte",
+        "name_es": "",
+        "name_fr": "Catapultes à Rancunes ou Canons par tranche de 1000 points"
+      },
+      "Grudge-settler": {
+        "name_de": "Grolltilger",
+        "name_es": "",
+        "name_fr": "Solde-Rancunes"
+      },
+      "Grudgelore": {
+        "name_de": "Grollwissen",
+        "name_es": "",
+        "name_fr": "Science des Rancunes"
+      },
+      "Gyrobomber": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Gyrobombardiers"
+      },
+      "Gyrocopters": {
+        "name_de": "Gyrokopter",
+        "name_es": "",
+        "name_fr": "Gyrocoptères"
+      },
+      "Hammerers": {
+        "name_de": "Hammerträger",
+        "name_es": "",
+        "name_fr": "Marteliers"
+      },
+      "Handgun": {
+        "name_de": "Muskete",
+        "name_es": "",
+        "name_fr": "Arquebuse"
+      },
+      "Handguns": {
+        "name_de": "Musketen",
+        "name_es": "",
+        "name_fr": "Arquebuses"
+      },
+      "Hatred (Orcs & Goblins)": {
+        "name_de": "Hass (Orks & Goblins)",
+        "name_es": "",
+        "name_fr": "Haine (Orques & Gobelins)"
+      },
+      "Hit & Run": {
+        "name_de": "Zuschlagen und Verschwinden",
+        "name_es": "",
+        "name_fr": "Mitraillage au Sol"
+      },
+      "Hostile Terrain": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "If your General is a King": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Si votre Général est un Roi"
+      },
+      "Impact Hits (D3)": {
+        "name_de": "Aufpralltreffer (W3)",
+        "name_es": "",
+        "name_fr": "Touches d'Impact (D3)"
+      },
+      "Impact Hits (D3+1)": {
+        "name_de": "Aufpralltreffer (W3+1)",
+        "name_es": "",
+        "name_fr": "Touches d'Impact (D3+1)"
+      },
+      "Imperial Dwarf Mercenaries": {
+        "name_de": "Imperiale Zwergensöldner",
+        "name_es": "",
+        "name_fr": "Mercenaires Nains Impériaux"
+      },
+      "Ironbeard (champion)": {
+        "name_de": "Eisenbart (Champion)",
+        "name_es": "",
+        "name_fr": "Barbe de fer (champion)"
+      },
+      "Ironbreakers": {
+        "name_de": "Eisenbrecher",
+        "name_es": "",
+        "name_fr": "Brise-fer"
+      },
+      "Irondrakes": {
+        "name_de": "Eisendrachen",
+        "name_es": "",
+        "name_fr": "Dracs de Fer"
+      },
+      "Ironwarden (champion)": {
+        "name_de": "Eisenwächter (Champion)",
+        "name_es": "",
+        "name_fr": "Gardien de Fer (champion)"
+      },
+      "Killing Blow": {
+        "name_de": "Todesstoß",
+        "name_es": "",
+        "name_fr": "Coup Fatal"
+      },
+      "King": {
+        "name_de": "König",
+        "name_es": "",
+        "name_fr": "Roi"
+      },
+      "King of the Slayer Hold": {
+        "name_de": "König der Slayerfestung",
+        "name_es": "",
+        "name_fr": "Roi de la Forteresse des Tueurs"
+      },
+      "Lightly armoured fuselage": {
+        "name_de": "Leicht gepanzerter Rumpf",
+        "name_es": "",
+        "name_fr": "Fuselage légèrement blindé"
+      },
+      "Loner": {
+        "name_de": "Einzelgänger",
+        "name_es": "",
+        "name_fr": "Solitaire"
+      },
+      "Longbeards": {
+        "name_de": "Langbärte",
+        "name_es": "",
+        "name_fr": "Longues-barbes"
+      },
+      "Magic Resistance (-2)": {
+        "name_de": "Magieresistenz (-2)",
+        "name_es": "",
+        "name_fr": "Résistance à la Magie (-2)"
+      },
+      "Magic Resistance (-3)": {
+        "name_de": "Magieresistenz (-3)",
+        "name_es": "",
+        "name_fr": "Résistance à la Magie (-3)"
+      },
+      "Maximum 1": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Maximum 2": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Maximum 3": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "May only be taken as a character choice if your general is Ungrim Ironfist": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Ne peut être pris comme choix de Personnage que si votre général est Ungrim Poing-de-Fer"
+      },
+      "Miner's Cart": {
+        "name_de": "Bergwerker-Karren",
+        "name_es": "",
+        "name_fr": "Chariot de Mineur"
+      },
+      "Miners": {
+        "name_de": "Bergwerker",
+        "name_es": "",
+        "name_fr": "Mineurs"
+      },
+      "Must include Command Group and Prince Ulther": {
+        "name_de": "Muss die Kommandoabteilung und Prinz Ulther enthalten",
+        "name_es": "",
+        "name_fr": "Doit inclure l'État-Major et Prince Ulther"
+      },
+      "Oathstone": {
+        "name_de": "Eidstein",
+        "name_es": "",
+        "name_fr": "Pierre de Serment"
+      },
+      "Ol' Deadeye (champion)": {
+        "name_de": "Alter Späher (Champion)",
+        "name_es": "",
+        "name_fr": "Baroudeur (champion)"
+      },
+      "Organ Gun": {
+        "name_de": "Orgelkanone",
+        "name_es": "",
+        "name_fr": "Canon-orgue"
+      },
+      "Organ gun": {
+        "name_de": "Orgelkanone",
+        "name_es": "",
+        "name_fr": "Canon-orgue"
+      },
+      "Pistol": {
+        "name_de": "Pistole",
+        "name_es": "",
+        "name_fr": "Pistolet"
+      },
+      "Prepared Positions": {
+        "name_de": "Vorbereitete Stellungen",
+        "name_es": "",
+        "name_fr": "Positions Préparées"
+      },
+      "Prince Ulther": {
+        "name_de": "Prinz Ulther",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Prince Ulther's Dragon Company": {
+        "name_de": "Prinz Ulthers Drachenkompanie",
+        "name_es": "",
+        "name_fr": "Compagnie Dragon du Prince Ulther"
+      },
+      "Prospector (champion)": {
+        "name_de": "Prospektor (Champion)",
+        "name_es": "",
+        "name_fr": "Prospecteur (champion)"
+      },
+      "Quarrellers": {
+        "name_de": "Armbrustschützen",
+        "name_es": "",
+        "name_fr": "Arbalétriers"
+      },
+      "Random Attacks": {
+        "name_de": "Zufällige Attacken",
+        "name_es": "",
+        "name_fr": "Attaques Aléatoires"
+      },
+      "Range Finding Optics": {
+        "name_de": "Entfernungsmesseroptik",
+        "name_es": "",
+        "name_fr": "Instruments de Télémétrie"
+      },
+      "Rangers": {
+        "name_de": "Grenzläufer",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Replaces the Close Order special rule": {
+        "name_de": "Ersetzt die Geschlossene Ränge Sonderregel",
+        "name_es": "",
+        "name_fr": "Remplace la règle spéciale Ordre Serré"
+      },
+      "Resolute": {
+        "name_de": "Resolut",
+        "name_es": "",
+        "name_fr": "Résolu"
+      },
+      "Rivet gun": {
+        "name_de": "Nietpistole",
+        "name_es": "",
+        "name_fr": "Pistolet à rivets"
+      },
+      "Royal Champion (Up to 25 points of each rune type)": {
+        "name_de": "Thronstreiter (Bis zu 25 Punkte bei jedem Runentyp)",
+        "name_es": "",
+        "name_fr": "Champion Royal (Jusqu'à 25 points de chaque type de rune)"
+      },
+      "Royal Clan Veteran": {
+        "name_de": "Königlicher Klanveteran",
+        "name_es": "",
+        "name_fr": "Vétéran des Clans Royaux"
+      },
+      "Royal Clan Warriors": {
+        "name_de": "Königliche Klankrieger",
+        "name_es": "",
+        "name_fr": "Guerriers des Clans Royaux"
+      },
+      "Royal Clan only": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Clans Royaux uniquement"
+      },
+      "Royal Guard": {
+        "name_de": "Königswache",
+        "name_es": "",
+        "name_fr": "Garde Royale"
+      },
+      "Rune Lore": {
+        "name_de": "Runenwissen",
+        "name_es": "",
+        "name_fr": "Savoir Runique"
+      },
+      "Runelord": {
+        "name_de": "Runenmeister",
+        "name_es": "",
+        "name_fr": "Seigneur Forgerune"
+      },
+      "Runes": {
+        "name_de": "Runen",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Runes of Protection": {
+        "name_de": "Rettungsrunen",
+        "name_es": "",
+        "name_fr": "Runes de Protection"
+      },
+      "Runes of Warding": {
+        "name_de": "Schirmrunen",
+        "name_es": "",
+        "name_fr": "Runes de Sauvegarde"
+      },
+      "Runesmith": {
+        "name_de": "Runenschmied",
+        "name_es": "",
+        "name_fr": "Forgerune"
+      },
+      "Runic Tattoos": {
+        "name_de": "Runentätowierungen",
+        "name_es": "",
+        "name_fr": "Tatouages Runiques"
+      },
+      "Scout Gyrocopters": {
+        "name_de": "Kundschafter-Gyrokopter",
+        "name_es": "",
+        "name_fr": "Gyrocoptères de Reconnaissance"
+      },
+      "Shieldbearers": {
+        "name_de": "Schildträger",
+        "name_es": "",
+        "name_fr": "Porteurs de Bouclier"
+      },
+      "Slayer": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Tueur"
+      },
+      "Slayer of Daemons": {
+        "name_de": "Dämonentöter",
+        "name_es": "",
+        "name_fr": "Tueur de Démons"
+      },
+      "Slayer of Dragons": {
+        "name_de": "Drachentöter",
+        "name_es": "",
+        "name_fr": "Tueur de Dragons"
+      },
+      "Slayers": {
+        "name_de": "Slayer",
+        "name_es": "",
+        "name_fr": "Tueurs"
+      },
+      "Steam drill": {
+        "name_de": "Dampfhammer",
+        "name_es": "",
+        "name_fr": "Foreuse à vapeur"
+      },
+      "Steam gun {dwarfs}": {
+        "name_de": "Dampfkanone",
+        "name_es": "",
+        "name_fr": "Canon à vapeur"
+      },
+      "Stoic Defenders": {
+        "name_de": "Sture Verteidiger",
+        "name_es": "",
+        "name_fr": "Défenseurs Stoïques"
+      },
+      "Stone thrower": {
+        "name_de": "Steinschleuder",
+        "name_es": "",
+        "name_fr": "Catapulte"
+      },
+      "Strike the Runes": {
+        "name_de": "Die Runen schlagen",
+        "name_es": "",
+        "name_fr": "Frapper les Runes"
+      },
+      "Talismanic Runes": {
+        "name_de": "Talismanrunen",
+        "name_es": "",
+        "name_fr": "Runes de Talisman"
+      },
+      "Thane": {
+        "name_de": "Thain",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "The Armour of Skaldour": {
+        "name_de": "Die Rüstung von Skaldour",
+        "name_es": "",
+        "name_fr": "L'Armure de Skaldor"
+      },
+      "The Axe of Dargo": {
+        "name_de": "Die Axt des Dargo",
+        "name_es": "",
+        "name_fr": "La Hache de Dargo"
+      },
+      "The Grudgestone": {
+        "name_de": "Der Grollstein",
+        "name_es": "",
+        "name_fr": "La Pierre de Rancune"
+      },
+      "The Slayer Crown": {
+        "name_de": "Die Slayerkrone",
+        "name_es": "",
+        "name_fr": "La Couronne du Tueur"
+      },
+      "Thorgrim Ulleksson": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Throwing axes": {
+        "name_de": "Wurfäxte",
+        "name_es": "",
+        "name_fr": "Haches de lancer"
+      },
+      "Thunderers": {
+        "name_de": "Musketenschützen",
+        "name_es": "",
+        "name_fr": "Arquebusiers"
+      },
+      "Trollhammer torpedo": {
+        "name_de": "Trollhammer-Harpune",
+        "name_es": "",
+        "name_fr": "Torpille à troll"
+      },
+      "Ungrim Ironfist": {
+        "name_de": "Ungrim Eisenfaust",
+        "name_es": "",
+        "name_fr": "Ungrim Poing-de-Fer"
+      },
+      "Up to 25 points of each rune type": {
+        "name_de": "Bis zu 25 Punkte von jedem Runentyp",
+        "name_es": "",
+        "name_fr": "Jusqu'à 25 points de chaque type de rune"
+      },
+      "Venerable": {
+        "name_de": "Altehrwürdig",
+        "name_es": "",
+        "name_fr": "Vénérables"
+      },
+      "Veteran (champion)": {
+        "name_de": "Veteran (Champion)",
+        "name_es": "",
+        "name_fr": "Vétéran (champion)"
+      },
+      "Weapon Runes": {
+        "name_de": "Waffenrunen",
+        "name_es": "",
+        "name_fr": "Runes d'Arme"
+      },
+      "Whirling blades of death": {
+        "name_de": "Wirbelnde Klingen des Todes",
+        "name_es": "",
+        "name_fr": "Lames de mort tourbillonnantes"
+      },
+      "Whirlwind of Death": {
+        "name_de": "Wirbelwind des Todes",
+        "name_es": "",
+        "name_fr": "Tourbillon de Mort"
+      }
+    },
+    "empire-of-man.json": {
+      "\"Hold the Line!\"": {
+        "name_de": "",
+        "name_es": "\"¡Aguantad la línea!\"",
+        "name_fr": "\"Tenez la Ligne!\""
+      },
+      "0-1 General of the Empire or Grand Master per 1000 points": {
+        "name_de": "",
+        "name_es": "0-1 General del Imperio o Gran Maestre por cada 1.000 puntos",
+        "name_fr": "0-1 Général de l'Empire ou Grand Maître par tranche de 1000 points"
+      },
+      "0-1 General of the Empire or Lector of Sigmar per 1000 points": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "0-1 Général de l'Empire ou Archidiacre de Sigmar par tranche de 1000 points"
+      },
+      "0-1 Grand Master": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "0-1 Grand Maître"
+      },
+      "0-1 Grand Master or Chapter Master in your army may be upgraded to belong to your chosen Knightly Order": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "0-1 Grand Maître ou Maître de Chapitre de votre armée peut être promu pour appartenir à l'Ordre de Chevalerie de votre choix"
+      },
+      "0-1 Great Cannon or Mortar may be taken as a Special choice per 1000 points": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "0-1 Grand Canon ou Mortier peut être pris comme choix Spécial par tranche de 1000 points"
+      },
+      "0-1 Lector of Sigmar or High Priest of Ulric per 1000 points": {
+        "name_de": "",
+        "name_es": "0-1 Archilector de Sigmar o Sumo Sacerdote de Ulric por cada 1.000 puntos",
+        "name_fr": "0-1 Archidiacre de Sigmar ou Grand Prêtre d'Ulric par tranche de 1000 points"
+      },
+      "0-1 Steam Tank per 1000 points": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "0-1 Tank à Vapeur par tranche de 1000 points"
+      },
+      "0-1 War Altar of Sigmar": {
+        "name_de": "",
+        "name_es": "0-1 Altar de Guerra de Sigmar",
+        "name_fr": "0-1 Autel de Guerre de Sigmar"
+      },
+      "0-1 per 1000 points": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "0-1 par tranche de 1000 points"
+      },
+      "0-1 unit": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "0-1 unité"
+      },
+      "0-1 unit of Demigryph Knights Panther": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "0-1 unité de Chevaliers Panthères Demigriffon"
+      },
+      "0-1 unit of Demigryph Knights of Morr": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "0-1 unité de Chevaliers de Morr Demigriffon"
+      },
+      "0-1 unit of Demigryph Knights of the Blazing Sun": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "0-1 unité de Chevaliers du Soleil Demigriffon"
+      },
+      "0-1 unit of Demigryph Knights of the White Wolf": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "0-1 unité de Chevaliers du Loup Blanc Demigriffon"
+      },
+      "0-1 unit of Empire Knights Panther": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "0-1 unité de Chevaliers Panthères"
+      },
+      "0-1 unit of Empire Knights of Fiery Heart": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "0-1 unité de Chevaliers du Cœur Ardent"
+      },
+      "0-1 unit of Empire Knights of Morr": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "0-1 unité de Chevaliers de Morr"
+      },
+      "0-1 unit of Empire Knights of the Blazing Sun": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "0-1 unité de Chevaliers du Soleil"
+      },
+      "0-1 unit of Empire Knights of the White Wolf": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "0-1 unité de Chevaliers du Loup Blanc"
+      },
+      "0-1 unit of Empire Knights or Inner Circle Knights belonging to the Order of the White Wolf": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "0-1 unité de Chevaliers de l'Empire ou de Chevaliers du Cercle Intérieur appartenant à l'Ordre du Loup Blanc"
+      },
+      "0-1 unit of Free Company Militia per 1000 points may be taken as a Core choice": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "0-1 unité de Milice des Franches Compagnies par tranche de 1000 points peut être prise comme choix d'Unité de Base"
+      },
+      "0-1 unit of Imperial Ogres may be taken as Mercenaries": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "0-1 unité de Ogres Impériaux peuvent être pris comme Mercenaires"
+      },
+      "0-1 unit of Inner Circle Knights Panther": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "0-1 unité de Chevaliers Panthères du Cercle Intérieur"
+      },
+      "0-1 unit of Inner Circle Knights may be taken as a Core choice": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "0-1 unité de Chevaliers du Cercle Intérieur peut être prise comme choix d'Unité de Base"
+      },
+      "0-1 unit of Inner Circle Knights of Morr": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "0-1 unité de Chevaliers de Morr du Cercle Intérieur"
+      },
+      "0-1 unit of Inner Circle Knights of the Blazing Sun": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "0-1 unité de Chevaliers du Soleil du Cercle Intérieur"
+      },
+      "0-1 unit of Inner Circle Knights of the Fiery Heart": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "0-1 unité de Chevaliers du Cœur Ardent du Cercle Intérieur"
+      },
+      "0-1 unit of Inner Circle Knights of the White Wolf": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "0-1 unité de Chevaliers du Loup Blanc du Cercle Intérieur"
+      },
+      "0-1 unit of Inner Circle Knights per 1000 points": {
+        "name_de": "",
+        "name_es": "0-1 unidades de Caballeros del Círculo Interior por cada 1.000 puntos",
+        "name_fr": "0-1 unité de Chevaliers du Cercle Intérieur par tranche de 1000 points"
+      },
+      "0-1 unit of Outriders per 1000 points": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "0-1 unité de Escorteurs par tranche de 1000 points"
+      },
+      "0-1 unit of State Troops or State Missile Troops per 1000 points": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "0-1 unité de Troupes Régulières ou Troupes de Tir de l'Empire par tranche de 1000 points"
+      },
+      "0-1 unit of Teutogen Guard may be taken as a Special choice per Warrior Priest of Ulric in your army": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "0-1 unité de Garde Teutogène peut être prise comme choix Spécial pour chaque Prêtre-Guerrier d'Ulric dans votre armée"
+      },
+      "0-1 unit of Veteran State Troops per 1000 points": {
+        "name_de": "",
+        "name_es": "0-1 unidades de Tropas Estatales Veteranas por cada 1.000 puntos",
+        "name_fr": "0-1 unité de Vétérans des Troupes Régulières par tranche de 1000 points"
+      },
+      "0-1 war machine chosen from the following list per 1000 points: Helblaster Volley Gun": {
+        "name_de": "",
+        "name_es": "0-1 máquinas de guerra de la siguiente lista por cada 1.000 puntos: Cañón de Salvas Helblaster",
+        "name_fr": "0-1 machine de guerre choisie dans la liste suivante par tranche de 1000 points: Canon à Répétition Feu d'Enfer"
+      },
+      "0-1 war machine per 1000 points": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "0-1 machine de guerre par tranche de 1000 points"
+      },
+      "0-2 Master Mages as Character choices per 1000 points": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "0-2 Maîtres Mages peuvent être pris comme choix de Personnage par tranche de 1000 points"
+      },
+      "0-2 war machines chosen from the following list per 1000 points: Helblaster Volley Gun": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "0-2 machines de guerre choisies dans la liste suivante par tranche de 1000 points: Canon à Répétition Feu d'Enfer"
+      },
+      "0-3 war machines chosen from the following list per 1000 points: Great Cannon": {
+        "name_de": "",
+        "name_es": "0-3 máquinas de guerra de la siguiente lista por cada 1.000 puntos: Gran Cañón",
+        "name_fr": "0-3 machines de guerre choisies dans la liste suivante par tranche de 1000 points: Grand Canon"
+      },
+      "1+ Chapter Master": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "1+ Maître de Chapitre"
+      },
+      "1+ regiment of Nuln State Troops or Nuln Veteran State Troops": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "1+ régiment de Troupes Régulières de Nuln ou Vétérans des Troupes Régulières de Nuln"
+      },
+      "1-2 detachments of State Missile Troops and/or State Troops": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "1-2 détachements de Troupes de Tir de l'Empire et/ou Troupes Régulières"
+      },
+      "3+": {
+        "name_de": "3+",
+        "name_es": "3+",
+        "name_fr": "3+"
+      },
+      "Additional hand weapons": {
+        "name_de": "",
+        "name_es": "Armas de mano adicionales",
+        "name_fr": "Armes de base additionnelles"
+      },
+      "Armour Bane (1)": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Arme Perforante (1)"
+      },
+      "Assorted weapons": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Assortiment d'armes"
+      },
+      "Ball & chain": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Scorpion"
+      },
+      "Barded Warhorse": {
+        "name_de": "",
+        "name_es": "Caballo de guerra con barda",
+        "name_fr": "Destrier Caparaçonné"
+      },
+      "Beast Reaver": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Perce-Bête"
+      },
+      "Blessings of Ulric": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Bénédiction d'Ulric"
+      },
+      "Blunderbuss": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Tromblon"
+      },
+      "Brace of pistols": {
+        "name_de": "",
+        "name_es": "Ristra de pistolas",
+        "name_fr": "Plusieurs pistolets"
+      },
+      "Captain (champion)": {
+        "name_de": "",
+        "name_es": "Captain (campeón)",
+        "name_fr": "Capitaine (champion)"
+      },
+      "Captain of the Empire": {
+        "name_de": "",
+        "name_es": "Capitán del Imperio",
+        "name_fr": "Capitaine de l'Empire"
+      },
+      "Chapter Master": {
+        "name_de": "",
+        "name_es": "Maestre del Capítulo",
+        "name_fr": "Maître de Chapitre"
+      },
+      "Clouds of Soot & Smoke": {
+        "name_de": "",
+        "name_es": "Nubes de Humo y Hollín",
+        "name_fr": "Nuages de Suie et de Fumée"
+      },
+      "Count's Champion (champion)": {
+        "name_de": "",
+        "name_es": "Campeón del Conde (campeón)",
+        "name_fr": "Champion du Comte (champion)"
+      },
+      "Crossbow": {
+        "name_de": "",
+        "name_es": "Ballesta",
+        "name_fr": "Arbalète"
+      },
+      "Crossbow/Handgun": {
+        "name_de": "",
+        "name_es": "Ballesta/Arcabuz",
+        "name_fr": "Arbalète/Arquebuse"
+      },
+      "Crushing Weight": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Poids Écrasant"
+      },
+      "Demigryph": {
+        "name_de": "",
+        "name_es": "Semigrifo",
+        "name_fr": "Demigriffon"
+      },
+      "Demigryph Knights": {
+        "name_de": "",
+        "name_es": "Caballeros en Semigrifo",
+        "name_fr": "Chevaliers Demigriffons"
+      },
+      "Demigryph Knights Panther": {
+        "name_de": "",
+        "name_es": "Caballeros en Semigrifo Panther",
+        "name_fr": "Chevaliers Panthères Demigriffon"
+      },
+      "Demigryph Knights of Morr": {
+        "name_de": "",
+        "name_es": "Caballeros en Semigrifo of Morr",
+        "name_fr": "Chevaliers de Morr Demigriffon"
+      },
+      "Demigryph Knights of the Blazing Sun": {
+        "name_de": "",
+        "name_es": "Caballeros en Semigrifo of the Blazing Sun",
+        "name_fr": "Chevaliers du Soleil Demigriffon"
+      },
+      "Demigryph Knights of the Fiery Heart": {
+        "name_de": "",
+        "name_es": "Caballeros en Semigrifo of the Fiery Heart",
+        "name_fr": "Chevaliers du Cœur Ardent Demigriffon"
+      },
+      "Demigryph Knights of the White Wolf": {
+        "name_de": "",
+        "name_es": "Caballeros en Semigrifo of the White Wolf",
+        "name_fr": "Chevaliers du Loup Blanc Demigriffon"
+      },
+      "Demigryph Preceptor (champion)": {
+        "name_de": "",
+        "name_es": "Preceptor en Semigrifos (campeón)",
+        "name_fr": "Précepteur Demigriffon (champion)"
+      },
+      "Empire Archers": {
+        "name_de": "",
+        "name_es": "Arqueros del Imperio",
+        "name_fr": "Archers de l'Empire"
+      },
+      "Empire Engineer": {
+        "name_de": "",
+        "name_es": "Ingeniero del Imperio",
+        "name_fr": "Ingénieur de l'Empire"
+      },
+      "Empire Greatswords": {
+        "name_de": "",
+        "name_es": "Grandes Espaderos del Imperio",
+        "name_fr": "Joueurs d'Épées de l'Empire"
+      },
+      "Empire Knights": {
+        "name_de": "",
+        "name_es": "Caballeros del Imperio",
+        "name_fr": "Chevaliers de l'Empire"
+      },
+      "Empire Knights Panther": {
+        "name_de": "",
+        "name_es": "Caballeros del Imperio Panther",
+        "name_fr": "Chevaliers Panthères"
+      },
+      "Empire Knights of Morr": {
+        "name_de": "",
+        "name_es": "Caballeros del Imperio of Morr",
+        "name_fr": "Chevaliers de Morr"
+      },
+      "Empire Knights of the Blazing Sun": {
+        "name_de": "",
+        "name_es": "Caballeros del Imperio of the Blazing Sun",
+        "name_fr": "Chevaliers du Soleil"
+      },
+      "Empire Knights of the Fiery Heart": {
+        "name_de": "",
+        "name_es": "Caballeros del Imperio of the Fiery Heart",
+        "name_fr": "Chevaliers du Cœur Ardent"
+      },
+      "Empire Knights of the White Wolf": {
+        "name_de": "",
+        "name_es": "Caballeros del Imperio of the White Wolf",
+        "name_fr": "Chevaliers du Loup Blanc"
+      },
+      "Empire Road Wardens": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Patrouilleurs Ruraux de l'Empire"
+      },
+      "Empire Warhorse": {
+        "name_de": "Empire warhorse",
+        "name_es": "Caballo de guerra",
+        "name_fr": "Destrier de l'Empire"
+      },
+      "Empire warhorse": {
+        "name_de": "",
+        "name_es": "Caballo de guerra",
+        "name_fr": "Destrier de l'Empire"
+      },
+      "Evasive": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Esquiveur"
+      },
+      "Fanatical Zeal": {
+        "name_de": "",
+        "name_es": "Fervor Fanático",
+        "name_fr": "Zèle Fanatique"
+      },
+      "Fear": {
+        "name_de": "",
+        "name_es": "Miedo",
+        "name_fr": "Peur"
+      },
+      "Feel No Pain": {
+        "name_de": "",
+        "name_es": "No Hay Dolor",
+        "name_fr": "Insensibles à la Douleur"
+      },
+      "First Knight (champion)": {
+        "name_de": "",
+        "name_es": "First Knight (campeón)",
+        "name_fr": "Premier Chevalier (champion)"
+      },
+      "Flagellants": {
+        "name_de": "",
+        "name_es": "Flagelantes",
+        "name_fr": ""
+      },
+      "Flail": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Fléau"
+      },
+      "Flails": {
+        "name_de": "",
+        "name_es": "Mayales",
+        "name_fr": "Fléaux"
+      },
+      "Flaming Attacks": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Attaques Enflammées"
+      },
+      "Free Company Militia": {
+        "name_de": "",
+        "name_es": "Milicia de Compañías Libres",
+        "name_fr": "Milice des Franches Compagnies"
+      },
+      "General Hans von Löwenhacke": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Général Hans von Löwenhacke"
+      },
+      "General of the Empire": {
+        "name_de": "",
+        "name_es": "General del Imperio",
+        "name_fr": "Général de l'Empire"
+      },
+      "Grand Master": {
+        "name_de": "",
+        "name_es": "Gran Maestre",
+        "name_fr": "Grand Maître"
+      },
+      "Grand Master of the Knights Panther": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Grand Maître des Chevaliers Panthères"
+      },
+      "Great Cannon {empire}": {
+        "name_de": "Great Cannon",
+        "name_es": "Gran Cañón",
+        "name_fr": "Grand Canon"
+      },
+      "Great cannon": {
+        "name_de": "",
+        "name_es": "Gran cañón",
+        "name_fr": "Grand canon"
+      },
+      "Grenade launching blunderbuss": {
+        "name_de": "",
+        "name_es": "Trabuco lanzagranadas",
+        "name_fr": "Tromblon à grenades"
+      },
+      "Griffon Helm": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Heaume du Griffon"
+      },
+      "Griffon {empire}": {
+        "name_de": "Griffon",
+        "name_es": "Grifo",
+        "name_fr": "Griffon"
+      },
+      "Grinding Wheels": {
+        "name_de": "",
+        "name_es": "Machacar Bajo Ruedas",
+        "name_fr": "Roues Broyeuses"
+      },
+      "Guardians of the Temple": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Gardiens du Temple"
+      },
+      "Halberds": {
+        "name_de": "",
+        "name_es": "Alabardas",
+        "name_fr": "Hallebardes"
+      },
+      "Handgun": {
+        "name_de": "",
+        "name_es": "Arcabuz",
+        "name_fr": "Arquebuse"
+      },
+      "Handguns": {
+        "name_de": "",
+        "name_es": "Arcabuces",
+        "name_fr": "Arquebuses"
+      },
+      "Harald Gemunsen": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Harbinger of Doom": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Émissaire de la Fin"
+      },
+      "Hatred (Undead models)": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Haine (figurines Mortes-vivantes))"
+      },
+      "Hatred (Warriors of Chaos + Beastmen Brayherds + Daemonic models)": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Haine (figurines des Guerriers du Chaos"
+      },
+      "Hatred (all enemies)": {
+        "name_de": "",
+        "name_es": "Odio (a todos los enemigos)",
+        "name_fr": "Haine (Tous les ennemis)"
+      },
+      "Hatred (enemy Wizards + Orcs & Goblins)": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Haine (Sorciers ennemis"
+      },
+      "Helblaster Volley Gun": {
+        "name_de": "",
+        "name_es": "Cañón de Salvas Helblaster",
+        "name_fr": "Canon à Répétition Feu d'Enfer"
+      },
+      "Helstorm Rocket Battery": {
+        "name_de": "Helstrom Rocket Battery",
+        "name_es": "Batería de Cohetes HelStorm",
+        "name_fr": "Batterie Tonnerre de Feu"
+      },
+      "High Priest of Ulric": {
+        "name_de": "",
+        "name_es": "Sumo Sacerdote de Ulric",
+        "name_fr": "Grand Prêtre d'Ulric"
+      },
+      "Hochland long rifle": {
+        "name_de": "",
+        "name_es": "Rifle largo de Hochland",
+        "name_fr": "Long fusil de Hochland"
+      },
+      "Hooked halberd": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Guisarme"
+      },
+      "Horde": {
+        "name_de": "",
+        "name_es": "Horda",
+        "name_fr": ""
+      },
+      "Impact Hits (1)": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Touches d'Impact (1)"
+      },
+      "Impact Hits (D6+1 - War Wagon only)": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Touches d'Impact (D6+1 - Chariot de Guerre uniquement)"
+      },
+      "Impact Hits (D6+1)": {
+        "name_de": "",
+        "name_es": "Impactos por Carga (D6+1)",
+        "name_fr": "Touches d'Impact (D6+1)"
+      },
+      "Imperial Griffon": {
+        "name_de": "",
+        "name_es": "Grifo Imperial",
+        "name_fr": "Griffon Impérial"
+      },
+      "Imperial Ogres": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Ogres Impériaux"
+      },
+      "Inner Circle": {
+        "name_de": "",
+        "name_es": "Círculo Interior",
+        "name_fr": "Cercle Intérieur"
+      },
+      "Inner Circle Knights": {
+        "name_de": "",
+        "name_es": "Caballeros del Círculo Interior",
+        "name_fr": "Chevaliers du Cercle Intérieur"
+      },
+      "Inner Circle Knights Panther": {
+        "name_de": "",
+        "name_es": "Caballeros del Círculo Interior Panther",
+        "name_fr": "Chevaliers Panthères du Cercle Intérieur"
+      },
+      "Inner Circle Knights of Morr": {
+        "name_de": "",
+        "name_es": "Caballeros del Círculo Interior of Morr",
+        "name_fr": "Chevaliers de Morr du Cercle Intérieur"
+      },
+      "Inner Circle Knights of the Blazing Sun": {
+        "name_de": "",
+        "name_es": "Caballeros del Círculo Interior of the Blazing Sun",
+        "name_fr": "Chevaliers du Soleil du Cercle Intérieur"
+      },
+      "Inner Circle Knights of the Fiery Heart": {
+        "name_de": "",
+        "name_es": "Caballeros del Círculo Interior of the Fiery Heart",
+        "name_fr": "Chevaliers du Cœur Ardent du Cercle Intérieur"
+      },
+      "Inner Circle Knights of the White Wolf": {
+        "name_de": "",
+        "name_es": "Caballeros del Círculo Interior of the White Wolf",
+        "name_fr": "Chevaliers du Loup Blanc du Cercle Intérieur"
+      },
+      "Inner Circle Preceptor (champion)": {
+        "name_de": "",
+        "name_es": "Preceptor del Círculo Interior (campeón)",
+        "name_fr": "Précepteur du Cercle Intérieur (champion)"
+      },
+      "Judgement": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Jugement"
+      },
+      "Killing Blow": {
+        "name_de": "",
+        "name_es": "Golpe Letal",
+        "name_fr": "Coup Fatal"
+      },
+      "Large Target": {
+        "name_de": "",
+        "name_es": "Objetivo Grande",
+        "name_fr": "Grande Cible"
+      },
+      "Lector of Sigmar": {
+        "name_de": "",
+        "name_es": "Archilector de Sigmar",
+        "name_fr": "Archidiacre de Sigmar"
+      },
+      "Levies": {
+        "name_de": "",
+        "name_es": "Levas",
+        "name_fr": "Conscrits"
+      },
+      "Light cannons": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Canons légers"
+      },
+      "Long rifle": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Long fusil"
+      },
+      "Longbow": {
+        "name_de": "",
+        "name_es": "Arco largo",
+        "name_fr": "Arc long"
+      },
+      "Magical Attacks": {
+        "name_de": "",
+        "name_es": "Ataques Mágicos",
+        "name_fr": "Attaques Magiques"
+      },
+      "Man-catcher": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Attrape-coquin"
+      },
+      "Marksman (champion)": {
+        "name_de": "",
+        "name_es": "Tirador (campeón)",
+        "name_fr": "Tireur d'Élite (champion)"
+      },
+      "Master Mage": {
+        "name_de": "",
+        "name_es": "Hechicero de Batalla",
+        "name_fr": "Maître Mage"
+      },
+      "Master of Ballistics": {
+        "name_de": "",
+        "name_es": "Maestro Artillero",
+        "name_fr": "Maître en Balistique"
+      },
+      "Master of Battle": {
+        "name_de": "",
+        "name_es": "Maestro de Batalla",
+        "name_fr": "Maître des Batailles"
+      },
+      "Mercenaries": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Mercenaires"
+      },
+      "Mercenary Commander": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Commandant Mercenaire"
+      },
+      "Militia leader (champion)": {
+        "name_de": "",
+        "name_es": "Lider de la Milicia (campeón)",
+        "name_fr": "Chef de Milice (champion)"
+      },
+      "Morning Stars": {
+        "name_de": "Morgensterne",
+        "name_es": "",
+        "name_fr": "Morgenstern"
+      },
+      "Mortar": {
+        "name_de": "",
+        "name_es": "Mortero",
+        "name_fr": "Mortier"
+      },
+      "Mortar {empire}": {
+        "name_de": "Mortar",
+        "name_es": "Mortero",
+        "name_fr": "Mortier"
+      },
+      "Nuln State Troops": {
+        "name_de": "",
+        "name_es": "Nuln Tropas Estatales",
+        "name_fr": "Troupes Régulières de Nuln"
+      },
+      "Nuln Veteran State Troops": {
+        "name_de": "",
+        "name_es": "Nuln Tropas Estatales Veteranas",
+        "name_fr": "Vétérans des Troupes Régulières de Nuln"
+      },
+      "Ogre Charge": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Charge Ogre"
+      },
+      "Ogre pistols": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Pistolets Ogres"
+      },
+      "Order of the Blazing Sun": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Ordre du Soleil"
+      },
+      "Order of the Fiery Heart": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Ordre du Cœur Ardent"
+      },
+      "Order of the Knights Panther": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Ordre des Chevaliers Panthères"
+      },
+      "Order of the Knights of Morr": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Ordre des Chevaliers de Morr"
+      },
+      "Order of the White Wolf": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Ordre du Loup Blanc"
+      },
+      "Outriders": {
+        "name_de": "",
+        "name_es": "Batidores",
+        "name_fr": "Escorteurs"
+      },
+      "Pegasus": {
+        "name_de": "",
+        "name_es": "Pegaso",
+        "name_fr": "Pégase"
+      },
+      "Pigeon bombs": {
+        "name_de": "Pigeon Bombs",
+        "name_es": "Palomas bomba",
+        "name_fr": "Pigeons grenadiers"
+      },
+      "Pistol": {
+        "name_de": "",
+        "name_es": "Pistola",
+        "name_fr": "Pistolet"
+      },
+      "Pistoliers": {
+        "name_de": "",
+        "name_es": "Herreruelos",
+        "name_fr": ""
+      },
+      "Pistols": {
+        "name_de": "",
+        "name_es": "Pistolas",
+        "name_fr": "Pistolets"
+      },
+      "Prayer of the Damned": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Prière des Damnés"
+      },
+      "Prayers of Sigmar": {
+        "name_de": "",
+        "name_es": "Plegarias a Sigmar",
+        "name_fr": "Prières de Sigmar"
+      },
+      "Prayers of Ulric": {
+        "name_de": "",
+        "name_es": "Plegarias a Ulric",
+        "name_fr": "Prières d'Ulric"
+      },
+      "Preceptor (champion)": {
+        "name_de": "",
+        "name_es": "Preceptor (campeón)",
+        "name_fr": "Précepteur (champion)"
+      },
+      "Priest of Sigmar": {
+        "name_de": "",
+        "name_es": "Sacerdote de Sigmar",
+        "name_fr": "Prêtre de Sigmar"
+      },
+      "Priest of Ulric": {
+        "name_de": "",
+        "name_es": "Sacerdote de Ulric",
+        "name_fr": "Prêtre d'Ulric"
+      },
+      "Prophet of Doom (champion)": {
+        "name_de": "",
+        "name_es": "Profeta de la Perdión (campeón)",
+        "name_fr": "Prophète (champion)"
+      },
+      "Repeater handgun": {
+        "name_de": "",
+        "name_es": "Mosquete de repetición",
+        "name_fr": "Arquebuse à répétition"
+      },
+      "Repeater handguns": {
+        "name_de": "",
+        "name_es": "Mosquetes de repeteción",
+        "name_fr": "Arquebuses à répétition"
+      },
+      "Repeater pistol": {
+        "name_de": "",
+        "name_es": "Pistola de repetición",
+        "name_fr": "Pistolet à répétition"
+      },
+      "Repeating rifle": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Fusil à répétition"
+      },
+      "Sergeant (champion)": {
+        "name_de": "",
+        "name_es": "Sargento (campeón)",
+        "name_fr": "Sergent (champion)"
+      },
+      "Sharpshooter (champion)": {
+        "name_de": "",
+        "name_es": "Tirador experto (campeón)",
+        "name_fr": "Mitrailleur (champion)"
+      },
+      "Skilled Duellist": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Cri de Ralliement"
+      },
+      "Stable Firing Platform": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Plate-Forme de Tir Stable"
+      },
+      "State Missile Troops": {
+        "name_de": "",
+        "name_es": "Tropas Estatales de Proyectiles",
+        "name_fr": "Troupes de Tir de l'Empire"
+      },
+      "State Troops": {
+        "name_de": "",
+        "name_es": "Tropas Estatales",
+        "name_fr": "Troupes Régulières"
+      },
+      "Steam Cannon": {
+        "name_de": "",
+        "name_es": "Cañón de vapor",
+        "name_fr": "Canon à Vapeur"
+      },
+      "Steam Power": {
+        "name_de": "",
+        "name_es": "Potencia de Vapor",
+        "name_fr": "Propulsion à Vapeur"
+      },
+      "Steam Tank": {
+        "name_de": "",
+        "name_es": "Tanque a Vapor",
+        "name_fr": "Tank à Vapeur"
+      },
+      "Steam gun {empire}": {
+        "name_de": "Steam gun",
+        "name_es": "Arma de vapor",
+        "name_fr": "Couleuvrine à Vapeur"
+      },
+      "Stomp Attacks (D3+1)": {
+        "name_de": "",
+        "name_es": "Golpetazo (D3+1)",
+        "name_fr": "Attaques de Piétinement (D3+1)"
+      },
+      "Strategic Mastery": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Maîtrise Stratégique"
+      },
+      "Suffer Not...": {
+        "name_de": "",
+        "name_es": "Acusación",
+        "name_fr": "Ne Tolérez Pas..."
+      },
+      "Temperamental": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Susceptible"
+      },
+      "Teutogen Guard": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Garde Teutogène"
+      },
+      "The Daemon": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Les Démons"
+      },
+      "The Mutant": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Les Mutants"
+      },
+      "The Revenant": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Les Revenants"
+      },
+      "The Witch": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Les Sorcières"
+      },
+      "Throwing weapons (mixed weapons)": {
+        "name_de": "",
+        "name_es": "Armas arrojadizas (armas variadas)",
+        "name_fr": "Armes de lancer (armes mixtes)"
+      },
+      "Two Heads": {
+        "name_de": "",
+        "name_es": "Dos Cabezas",
+        "name_fr": "Bicéphale"
+      },
+      "Veteran (champion)": {
+        "name_de": "",
+        "name_es": "Veterano (campeón)",
+        "name_fr": "Vétérans (champion)"
+      },
+      "Veteran Sergeant (champion)": {
+        "name_de": "",
+        "name_es": "Sargento Veterano (campeón)",
+        "name_fr": "Sergent Vétéran (champion)"
+      },
+      "Veteran State Troops": {
+        "name_de": "",
+        "name_es": "Tropas Estatales Veteranas",
+        "name_fr": "Vétérans des Troupes Régulières"
+      },
+      "War Altar of Sigmar": {
+        "name_de": "",
+        "name_es": "Altar de Guerra de Sigmar",
+        "name_fr": "Autel de Guerre de Sigmar"
+      },
+      "War Wagon {empire}": {
+        "name_de": "War Wagon",
+        "name_es": "War Wagon",
+        "name_fr": "Chariot de Guerre"
+      },
+      "Warband": {
+        "name_de": "",
+        "name_es": "Partida de Guerra",
+        "name_fr": "Bande de Guerre"
+      },
+      "Warbows": {
+        "name_de": "",
+        "name_es": "Arcos de guerra",
+        "name_fr": "Arcs de guerre"
+      },
+      "Witch Hunter": {
+        "name_de": "",
+        "name_es": "Cazador de brujas",
+        "name_fr": "Répurgateur"
+      },
+      "Wizard Lord": {
+        "name_de": "",
+        "name_es": "Gran Hechicero",
+        "name_fr": "Seigneur Sorcier"
+      },
+      "Wolf hammer": {
+        "name_de": "",
+        "name_es": "Wolf hammers",
+        "name_fr": "Marteau de loup"
+      },
+      "Wolf hammers": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Marteaux du loup"
+      },
+      "Zealot": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Zélote"
+      },
+      "if appropriately mounted": {
+        "name_de": "",
+        "name_es": "si está montado",
+        "name_fr": "si monté"
+      }
+    },
+    "high-elf-realms.json": {
+      "0-1 Chracian Chieftain or Storm Weaver per 1000 points": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "0-1 Core choice if your General is a Handmaiden of the Everqueen": {
+        "name_de": "0-1 Kernauswahl wenn dein General eine Zofe der Immerkönigin ist",
+        "name_es": "0-1 con Reina eterna",
+        "name_fr": "0-1 en choix de Base si votre Général est une Suivante de la Reine Éternelle"
+      },
+      "0-1 Dragon Mage": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "0-1 Eagle-claw Bolt Thrower per 1000 points": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "0-1 Flamespyre or Frostheart Phoenix per 1000 points": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "0-1 High Elf Prince or Archmage per 1000 points": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "0-1 Lion Chariot of Chrace may be taken as a Special choice per 1000 points": {
+        "name_de": "kann 0-1 Löwenstreitwagen von Chrace pro 1000 Punkte als Eliteauswahl gewählt werden",
+        "name_es": "Se puede incluir 0-1 Carro de leones de Cracia como unidad especial por cada 1000 puntos",
+        "name_fr": "0-1 Char à Lions de Chrace peut être pris comme choix Spécial par tranche de 1000 points"
+      },
+      "0-1 Lothern Skycutter may be taken as a Special choice": {
+        "name_de": "kann 0-1 Himmelssegler von Lothern als Eliteauswahl gewählt werden",
+        "name_es": "puedes incluir 0-1 Escolta celeste de Lothern como unidad especial",
+        "name_fr": "0-1 Cotre Volant de Lothern peut être pris comme choix Spécial"
+      },
+      "0-1 Rare choice if you include one or more Lothern Sea Guard unit": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "0-1 Rare choice if you include one or more White Lions of Chrace unit": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "0-1 Storm Weaver per 1000 points": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "0-1 unit": {
+        "name_de": "0-1 Einheit",
+        "name_es": "0-1 unidad",
+        "name_fr": "0-1 unité"
+      },
+      "0-1 unit of Dragon Princes of Caledor per 1000 points": {
+        "name_de": "",
+        "name_es": "0-1 unidad de Príncipes dragón por cada 1000 puntos",
+        "name_fr": "0-1 unité de Princes Dragons de Caledor par tranche de 1000 points"
+      },
+      "0-1 unit of Lion Guard": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "0-1 unit of Shadow Warriors or Sisters of Avelorn per 1000 points": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "0-1 unit of Shadow Warriors per 1000 points": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "0-1 unit of War Lions per 1000 points": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "0-1 unit of White Lions of Chrace per 1000 points": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "0-2 Great Eagles per 1000 points": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "0-3 Eagle-claw Bolt Throwers per 1000 points": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Abyssal Cloak": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Accomplished Archers": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Archmage": {
+        "name_de": "Erzmagier",
+        "name_es": "Archimago",
+        "name_fr": "Archimage"
+      },
+      "Arrows of Isha": {
+        "name_de": "Pfeile der Isha",
+        "name_es": "Flechas de Isha",
+        "name_fr": "Flèches d'Isha"
+      },
+      "Barded Elven Steed": {
+        "name_de": "Elfenross mit Rossharnisch",
+        "name_es": "Corcel élfico con barda",
+        "name_fr": "Coursier Elfique Caparaçonné"
+      },
+      "Bladelord": {
+        "name_de": "Klingenherr",
+        "name_es": "Señor de la espada",
+        "name_fr": "Grande Lame"
+      },
+      "Blessings of Asuryan": {
+        "name_de": "Segnungen des Asuryan",
+        "name_es": "Bendiciones de Asuryan",
+        "name_fr": "Bienfaits d'Asuryan"
+      },
+      "Blizzard Aura": {
+        "name_de": "Eissturmaura",
+        "name_es": "Aura de ventisca",
+        "name_fr": "Aura de Blizzard"
+      },
+      "Bosum": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Bow of Avelorn": {
+        "name_de": "Bogen von Avelorn",
+        "name_es": "Arco de Avelorn",
+        "name_fr": "Arc d'Avelorn"
+      },
+      "Bows of Avelorn": {
+        "name_de": "Bögen von Avelorn",
+        "name_es": "Arcos de Avelorn",
+        "name_fr": "Arcs d'Avelorn"
+      },
+      "Briny breath": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Cavalry spear": {
+        "name_de": "Kavalleriespeer",
+        "name_es": "Lanza de caballería",
+        "name_fr": "Lance de cavalerie"
+      },
+      "Cavalry spear (if appropriately mounted)": {
+        "name_de": "Kavalleriespeer (if appropriately mounted)",
+        "name_es": "Lanza de caballería (if appropriately mounted)",
+        "name_fr": "Lance de cavalerie (if appropriately mounted)"
+      },
+      "Cavalry spears": {
+        "name_de": "Kavalleriespeere",
+        "name_es": "Lanzas de caballería",
+        "name_fr": "Lances de cavalerie"
+      },
+      "Ceremonial halberd": {
+        "name_de": "Zeremoniehellebarde",
+        "name_es": "",
+        "name_fr": "Hallebarde de cérémonie"
+      },
+      "Ceremonial halberds": {
+        "name_de": "Zeremoniehellebarden",
+        "name_es": "Alabardas ceremoniales",
+        "name_fr": "Hallebardes de cérémonie"
+      },
+      "Champion": {
+        "name_de": "",
+        "name_es": "Campeón",
+        "name_fr": ""
+      },
+      "Champions of Chrace": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Chariot Runners": {
+        "name_de": "Streitwagengarde",
+        "name_es": "Corredores de carros",
+        "name_fr": "Escorteurs de Chars"
+      },
+      "Chayal": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Chieftain's Chariot": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Chracian Captain (champion)": {
+        "name_de": "Chracian Captain (Champion)",
+        "name_es": "Chracian Captain (Campeón)",
+        "name_fr": ""
+      },
+      "Chracian Chieftain": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Chracian Warriors": {
+        "name_de": "Chracianische Krieger",
+        "name_es": "Guerreros de Cracia",
+        "name_fr": "Guerriers de Chrace"
+      },
+      "Chracian Woodsmen": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Chracian great blade": {
+        "name_de": "Chracianische Zweihandklinge",
+        "name_es": "",
+        "name_fr": "Grande lame de Chrace"
+      },
+      "Chracian great blades": {
+        "name_de": "Chraciaische Zweihandklingen",
+        "name_es": "Grandes hachas de Cracia",
+        "name_fr": "Grandes lames de Chrace"
+      },
+      "Cleaving Blow": {
+        "name_de": "Spaltender Hieb",
+        "name_es": "Golpe de gracia",
+        "name_fr": "Coup de Fendoir"
+      },
+      "Commanding Voice": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Deflect Shots": {
+        "name_de": "Geschosse ablenken",
+        "name_es": "Desviar disparos",
+        "name_fr": "Tirs Déviés"
+      },
+      "Dragon Armour": {
+        "name_de": "Drachenrüstung",
+        "name_es": "Armadura de dragón",
+        "name_fr": "Armure Dragon"
+      },
+      "Dragon Mage": {
+        "name_de": "Drachenmagier",
+        "name_es": "Mago dragón",
+        "name_fr": "Mage Dragon"
+      },
+      "Dragon Princes": {
+        "name_de": "Drachenprinzen",
+        "name_es": "Príncipes dragón",
+        "name_fr": "Princes Dragons"
+      },
+      "Drakemaster": {
+        "name_de": "Drachenmeister",
+        "name_es": "Maestro de dragones",
+        "name_fr": "Maître Dragon"
+      },
+      "Eagle-Claw Bolt Thrower": {
+        "name_de": "Adlerauge-Speerschleuder",
+        "name_es": "Lanzavirotes garra de águila",
+        "name_fr": "Baliste Serre d'Aigle"
+      },
+      "Eagle-Eye Bolt Thrower": {
+        "name_de": "Adlerauge-Speerschleuder",
+        "name_es": "Lanzavirotes ojo de águila",
+        "name_fr": "Baliste Œil-d'aigle"
+      },
+      "Ellyrian Reavers": {
+        "name_de": "Ellyrianische Grenzreiter",
+        "name_es": "Guardianes de Ellyrion",
+        "name_fr": "Patrouilleurs Ellyriens"
+      },
+      "Elven Archers": {
+        "name_de": "Elfische Bogenschützen",
+        "name_es": "Arqueros elfos",
+        "name_fr": "Archers Elfiques"
+      },
+      "Elven Honours": {
+        "name_de": "Elfenehrungen",
+        "name_es": "Honores élficos",
+        "name_fr": "Honneurs Elfiques"
+      },
+      "Elven Reflexes": {
+        "name_de": "Elfenreflexe",
+        "name_es": "Reflejos élficos",
+        "name_fr": "Réflexes Elfiques"
+      },
+      "Elven Reflexes (Sea Guard Crew only)": {
+        "name_de": "Elfenreflexe (Nur Seegarde Besatzung)",
+        "name_es": "Reflejos élficos (solo la tripulación de Guardias del mar)",
+        "name_fr": "Réflexes Elfiques (Équipage Garde Maritime uniquement)"
+      },
+      "Elven Spearmen": {
+        "name_de": "Elfische Speerträger",
+        "name_es": "Lanceros elfos",
+        "name_fr": "Lanciers Elfiques"
+      },
+      "Elven Steed": {
+        "name_de": "Elfenross",
+        "name_es": "Corcel élfico",
+        "name_fr": "Coursier Elfique"
+      },
+      "Enfeebling Cold": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Evasive": {
+        "name_de": "Ausweichen",
+        "name_es": "Evasivo",
+        "name_fr": "Esquiveur"
+      },
+      "Fear": {
+        "name_de": "Angst",
+        "name_es": "Miedo",
+        "name_fr": "Peur"
+      },
+      "Flamespyre Phoenix": {
+        "name_de": "",
+        "name_es": "Fénix pico llameante",
+        "name_fr": "Phénix Spire-de-feu"
+      },
+      "Flamespyre Phoenix {mount}": {
+        "name_de": "Flammensäulen-Phönix",
+        "name_es": "Fénix pico llameante",
+        "name_fr": "Phénix Spire-de-feu"
+      },
+      "Flaming Attacks": {
+        "name_de": "Flammenattacken",
+        "name_es": "Ataques flamígeros",
+        "name_fr": "Attaques Enflammées"
+      },
+      "Fly (9)": {
+        "name_de": "Fliegen (9)",
+        "name_es": "Volar (9)",
+        "name_fr": "Vol (9)"
+      },
+      "From the Ashes": {
+        "name_de": "Aus der Asche",
+        "name_es": "De las cenizas",
+        "name_fr": "Renaître des Cendres"
+      },
+      "Frostheart Phoenix": {
+        "name_de": "Frostherz-Phönix",
+        "name_es": "Fénix corazón gélido",
+        "name_fr": "Phénix Cœur-de-Givre"
+      },
+      "Frostheart Phoenix {mount}": {
+        "name_de": "Frostherz-Phönix",
+        "name_es": "Fénix corazón gélido",
+        "name_fr": "Phénix Cœur-de-Givre"
+      },
+      "Furious Charge*": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Great Eagle": {
+        "name_de": "Riesenadler",
+        "name_es": "Gran águila",
+        "name_fr": "Grand Aigle"
+      },
+      "Great Eagle {mount}": {
+        "name_de": "Riesenadler",
+        "name_es": "Gran águila",
+        "name_fr": "Grand Aigle"
+      },
+      "Griffon {high elves}": {
+        "name_de": "Greif",
+        "name_es": "Grifo",
+        "name_fr": "Griffon"
+      },
+      "Guardian": {
+        "name_de": "Beschützer der Königs",
+        "name_es": "Guardián",
+        "name_fr": "Gardien"
+      },
+      "Hand weapons (Claws and fangs)": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Armes de base (Griffes et crocs)"
+      },
+      "Hand weapons (Hooves)": {
+        "name_de": "Handwaffen (Hufe)",
+        "name_es": "Armas de mano (pezuñas)",
+        "name_fr": "Armes de base (Sabots)"
+      },
+      "Handmaiden of the Everqueen": {
+        "name_de": "Zofe der Immerkönigin",
+        "name_es": "Dama de la reina eterna",
+        "name_fr": "Suivante de la Reine Éternelle"
+      },
+      "Handmaiden's spear": {
+        "name_de": "Zofenspeer",
+        "name_es": "Lanza de dama",
+        "name_fr": "Lance de suivante"
+      },
+      "Harbinger (champion)": {
+        "name_de": "Herold (Champion)",
+        "name_es": "Heraldo (campeón)",
+        "name_fr": "Émissaire (champion)"
+      },
+      "Heavy armour (Iridescent scales)": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "High Elf Noble or High Elf Mage per 1000 points": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "High Helm (champion)": {
+        "name_de": "Adlerhelm (Champion)",
+        "name_es": "Yelmo alto (campeón)",
+        "name_fr": "Grand Heaume (champion)"
+      },
+      "High Sister": {
+        "name_de": "Hohe Schwester",
+        "name_es": "Hermana mayor",
+        "name_fr": "Sœur Supérieure"
+      },
+      "Horn of Isha": {
+        "name_de": "Horn der Isha",
+        "name_es": "Cuerno de Isha",
+        "name_fr": "Cor d'Isha"
+      },
+      "If your General has the Chracian Hunter Elven Honour": {
+        "name_de": "Wenn dein General die Elfenehrung Chracianischer Jäger hat",
+        "name_es": "Si tu general tiene el honor élfico Cazador de Cracia",
+        "name_fr": "Si votre Général a l'Honneur Elfique Chasseur Chracien"
+      },
+      "If your General has the Sea Guard Elven Honour": {
+        "name_de": "Wenn dein General die Elfenehrung Seegarde hat",
+        "name_es": "Si tu general tiene el honor élfico Guardia del mar",
+        "name_fr": "Si votre Général a l'Honneur Elfique Garde Maritime"
+      },
+      "Ignores Cover": {
+        "name_de": "Deckung ignorieren",
+        "name_es": "Ignora cobertura",
+        "name_fr": "Ignore les Couverts"
+      },
+      "Impact Hits (D3)": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Impact Hits (D3+1)": {
+        "name_de": "Aufpralltreffer (W3+1)",
+        "name_es": "Golpes de impacto (D3+1)",
+        "name_fr": "Touches d'Impact (D3+1)"
+      },
+      "Impact Hits (D6)": {
+        "name_de": "Aufpralltreffer (W6)",
+        "name_es": "Golpes de impacto (D6)",
+        "name_fr": "Touches d'Impact (D6)"
+      },
+      "Ishaya Vess": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Ithilmar Armour": {
+        "name_de": "Ithilmar-Rüstung",
+        "name_es": "Armadura de Ithilmar",
+        "name_fr": "Armure en Ithilmar"
+      },
+      "Ithilmar Barding": {
+        "name_de": "Ithilmar-Rossharnisch",
+        "name_es": "Bardas de Ithilmar",
+        "name_fr": "Barde en Ithilmar"
+      },
+      "Ithilmar Weapons": {
+        "name_de": "Ithilmar-Waffen",
+        "name_es": "Armas de Ithilmar",
+        "name_fr": "Armes en Ithilmar"
+      },
+      "Keeper of the Flame": {
+        "name_de": "Hüter der Flamme",
+        "name_es": "Guardián de la llama",
+        "name_fr": "Gardien de la Flamme"
+      },
+      "King's Guard": {
+        "name_de": "Wache des Königs",
+        "name_es": "Guardia del rey",
+        "name_fr": "Garde du Roi"
+      },
+      "Korhil Lionmane": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Large Target": {
+        "name_de": "Großes Ziel",
+        "name_es": "Bendición de Lileath",
+        "name_fr": "Grande Cible"
+      },
+      "Lashing talons": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Level 1 Wizard": {
+        "name_de": "Stufe 1 Zauberer",
+        "name_es": "Mago de nivel 1",
+        "name_fr": "Sorcier de Niveau 1"
+      },
+      "Level 3 Wizard": {
+        "name_de": "Stufe 3 Zauberer",
+        "name_es": "Mago de nivel 3",
+        "name_fr": "Sorcier de Niveau 3"
+      },
+      "Lileath's Blessing": {
+        "name_de": "Lileaths Segen",
+        "name_es": "Bendición de Lileath",
+        "name_fr": "Bienfait de Lileath"
+      },
+      "Lion Chariot of Chrace": {
+        "name_de": "Löwenstreitwagen von Chrace",
+        "name_es": "Carro de leones de Cracia",
+        "name_fr": "Char à Lions de Chrace"
+      },
+      "Lion Cloak": {
+        "name_de": "Löwenpelz",
+        "name_es": "Capa de león",
+        "name_fr": "Cape de Lion"
+      },
+      "Lion Guard": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Lion Guard Captain (champion)": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Longbow": {
+        "name_de": "Langbogen",
+        "name_es": "Arco largo",
+        "name_fr": "Arc long"
+      },
+      "Longbows": {
+        "name_de": "Langbögen",
+        "name_es": "Arco largo",
+        "name_fr": "Arcs longs"
+      },
+      "Lore of Saphery": {
+        "name_de": "Lehre von Saphery",
+        "name_es": "Saber de Saphery",
+        "name_fr": "Domaine de Saphery"
+      },
+      "Lothern Sea Guard": {
+        "name_de": "Seegarde von Lothern",
+        "name_es": "Guardia del mar de Lothern",
+        "name_fr": "Garde Maritime de Lothern"
+      },
+      "Lothern Skycutter": {
+        "name_de": "Himmelssegler von Lothern",
+        "name_es": "Escolta celeste",
+        "name_fr": "Cotre Volant de Lothern"
+      },
+      "Mage": {
+        "name_de": "Magier",
+        "name_es": "Mago",
+        "name_fr": ""
+      },
+      "Martial Prowess": {
+        "name_de": "Kriegerisches Können",
+        "name_es": "Destreza marcial",
+        "name_fr": "Prouesses Martiales"
+      },
+      "Mathlann's Ire": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Merwyrm": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Midshipman": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Mighty Constitution": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Moon Dragon": {
+        "name_de": "Monddrache",
+        "name_es": "Dragón lunar",
+        "name_fr": "Dragon Lunaire"
+      },
+      "Move through Cover": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Move through Cover*": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Naval Discipline": {
+        "name_de": "Flottendisziplin",
+        "name_es": "Disciplina naval",
+        "name_fr": "Discipline Navale"
+      },
+      "Noble": {
+        "name_de": "Edler",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Phoenix Guard": {
+        "name_de": "Phönixgarde",
+        "name_es": "Guardia del fénix",
+        "name_fr": "Garde Phénix"
+      },
+      "Precision Strikes": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Prince": {
+        "name_de": "Prinz",
+        "name_es": "Príncipe",
+        "name_fr": ""
+      },
+      "Quick Shot": {
+        "name_de": "Schnellschuss",
+        "name_es": "Disparo rápido",
+        "name_fr": "Tir Rapide"
+      },
+      "Requires Anointed of Asuryan Elven Honour": {
+        "name_de": "Benötigt die Elfenehrung Gesalbter des Asuryan",
+        "name_es": "",
+        "name_fr": "Nécessite l'Honneur Elfique Élu d'Asuryan"
+      },
+      "Requires Blood of Caledor Elven Honour": {
+        "name_de": "Benötigt die Elfenehrung Blut von Caledor",
+        "name_es": "",
+        "name_fr": "Nécessite l'Honneur Elfique Sang de Caledor"
+      },
+      "Requires Chracian Hunter Elven Honour": {
+        "name_de": "Benötigt die Elfenehrung Chracianischer Jäger",
+        "name_es": "",
+        "name_fr": "Nécessite l'Honneur Elfique Chasseur Chracien"
+      },
+      "Requires Chractian Hunter Elven Honour": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Requires Loremaster Elven Honour": {
+        "name_de": "Benötigt die Elfenehrung Lehrmeister",
+        "name_es": "",
+        "name_fr": "Nécessite l'Honneur Elfique Maître du Savoir"
+      },
+      "Requires Sea Guard Elven Honour": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Nécessite l'Honneur Elfique Garde Maritime"
+      },
+      "Requires Shadow Stalker Elven Honour": {
+        "name_de": "Benötigt die Elfenehrung Schattenpirscher",
+        "name_es": "",
+        "name_fr": "Nécessite l'Honneur Elfique Rôdeur des Ombres"
+      },
+      "Requires Warden of Saphery Elven Honour": {
+        "name_de": "Benötigt die Elfenehrung Wächter von Saphery",
+        "name_es": "",
+        "name_fr": "Nécessite l'Honneur Elfique Gardien de Saphery"
+      },
+      "Sea Guard Garrison Commander": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Sea Master (champion)": {
+        "name_de": "Seemeister (Champion)",
+        "name_es": "Maestro del mar (Campeón)",
+        "name_fr": "Maître Maritime (champion)"
+      },
+      "Sentinel (champion)": {
+        "name_de": "Wächter (Champion)",
+        "name_es": "Centinela (campeón)",
+        "name_fr": "Sentinelle (champion)"
+      },
+      "Serpentine tail": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Shadow Walker": {
+        "name_de": "Shattenmeister",
+        "name_es": "Caminante de las sombras",
+        "name_fr": "Arpenteur des Ombres"
+      },
+      "Shadow Warriors": {
+        "name_de": "Schattenkrieger",
+        "name_es": "Guerreros sombríos",
+        "name_fr": "Guerriers Fantômes"
+      },
+      "Ship's Company": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Shortbows": {
+        "name_de": "Kurzbögen",
+        "name_es": "Arcos cortos",
+        "name_fr": "Arcs courts"
+      },
+      "Silver Helms": {
+        "name_de": "Silberhelme",
+        "name_es": "Yelmos plateados",
+        "name_fr": "Heaumes d'Argent"
+      },
+      "Sisters of Avelorn": {
+        "name_de": "Schwestern von Avelorn",
+        "name_es": "Hermanas de Avelorn",
+        "name_fr": "Sœurs d'Avelorn"
+      },
+      "Skirmishers (Replaces Open Order)": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Sons of Caledor": {
+        "name_de": "Söhne Caledors",
+        "name_es": "Hijos de Caledor",
+        "name_fr": "Fils de Caledor"
+      },
+      "Star Dragon": {
+        "name_de": "Sternendrache",
+        "name_es": "Dragón estelar",
+        "name_fr": "Dragon Stellaire"
+      },
+      "Stomp Attacks (1)": {
+        "name_de": "Stampfattacken (1)",
+        "name_es": "Ataques de pisotón (1)",
+        "name_fr": "Attaques de Piétinement (1)"
+      },
+      "Stomp Attacks (2)": {
+        "name_de": "Stampfattacken (2)",
+        "name_es": "Ataques de pisotón (2)",
+        "name_fr": "Attaques de Piétinement (2)"
+      },
+      "Stomp Attacks (D3+1)": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Stomp Attacks (D6)": {
+        "name_de": "Stampfattacken (W6)",
+        "name_es": "Veloces",
+        "name_fr": "Attaques de Piétinement (D6)"
+      },
+      "Storm Weaver": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Strike First": {
+        "name_de": "Schlägt zuerst zu",
+        "name_es": "Siempre ataca primero",
+        "name_fr": "Frappe En Premier"
+      },
+      "Strike First*": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Sun Dragon": {
+        "name_de": "Sonnendrache",
+        "name_es": "Dragón solar",
+        "name_fr": "Dragon Solaire"
+      },
+      "Sword of Hoeth": {
+        "name_de": "Schwert aus Hoeth",
+        "name_es": "",
+        "name_fr": "Épée de Hoeth"
+      },
+      "Swordmasters of Hoeth": {
+        "name_de": "Schwertmeister von Hoeth",
+        "name_es": "Maestros de la espada de Hoeth",
+        "name_fr": "Maîtres des Épées de Hoeth"
+      },
+      "Swords of Hoeth": {
+        "name_de": "Schwerter aus Hoeth",
+        "name_es": "Espada de Hoeth",
+        "name_fr": "Épées de Hoeth"
+      },
+      "The Pelt of Charandis": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Tiranoc Chariot": {
+        "name_de": "Tiranoc-Streitwagen",
+        "name_es": "Carro de Tiranoc",
+        "name_fr": "Char de Tiranoc"
+      },
+      "Tiranoc Chariots": {
+        "name_de": "Tiranoc-Streitwagen",
+        "name_es": "Carros de Tiranoc",
+        "name_fr": "Chars de Tiranoc"
+      },
+      "Unicorn": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Valour of Ages": {
+        "name_de": "Mut der Zeitalter",
+        "name_es": "Valor de las eras",
+        "name_fr": "Valeur des Âges"
+      },
+      "Veteran (Replaces Valour of Ages)": {
+        "name_de": "Veteranen (Replaces Valour of Ages)",
+        "name_es": "Veteranos (Replaces Valour of Ages)",
+        "name_fr": "Vétérans (Replaces Valour of Ages)"
+      },
+      "Wake of Fire": {
+        "name_de": "Flammenschweif",
+        "name_es": "Estela de fuego",
+        "name_fr": "Sillage de Feu"
+      },
+      "War Lions": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Warbow": {
+        "name_de": "Kriegsbogen",
+        "name_es": "Arco de guerra",
+        "name_fr": "Arc de guerre"
+      },
+      "Warbows": {
+        "name_de": "Kriegsbögen",
+        "name_es": "Arcos de guerra",
+        "name_fr": "Arcs de guerre"
+      },
+      "Warriors of Nagarythe": {
+        "name_de": "Krieger aus Nagarythe",
+        "name_es": "Guerreros de Nagarythe",
+        "name_fr": "Guerriers de Nagarythe"
+      },
+      "Warriors of the White Tower": {
+        "name_de": "Krieger des Weißen Turms",
+        "name_es": "Guerreros de la torre Blanca",
+        "name_fr": "Guerriers de la Tour Blanche"
+      },
+      "White Lions of Chrace": {
+        "name_de": "Weiße Löwen von Chrace",
+        "name_es": "Leones blancos de Cracia",
+        "name_fr": "Lions Blancs de Chrace"
+      },
+      "Witness to Destiny": {
+        "name_de": "Wisen um das Schicksal",
+        "name_es": "Testigos del destino",
+        "name_fr": "Témoins du Destin"
+      }
+    },
+    "kingdom-of-bretonnia.json": {
+      "0-1 Baron or Prophetess per 1000 points": {
+        "name_de": "0-1 Baron oder Dame pro 1.000 Punkte",
+        "name_es": "",
+        "name_fr": "0-1 Baron ou Prophétesse par tranche de 1000 points"
+      },
+      "0-1 Baron per 1000 points": {
+        "name_de": "0-1 Baron pro 1.000 Punkte",
+        "name_es": "",
+        "name_fr": "0-1 Baron par tranche de 1000 points"
+      },
+      "0-1 Border Princes Bombard per 1000 points": {
+        "name_de": "0-1 Bombarde der Grenzgrafschaften pro 1000 Punkte",
+        "name_es": "",
+        "name_fr": "0-1 Bombarde des Principautés Frontalières par tranche de 1000 points"
+      },
+      "0-1 Damsel": {
+        "name_de": "0-1 Dame",
+        "name_es": "",
+        "name_fr": "0-1 Damoiselle"
+      },
+      "0-1 Duke": {
+        "name_de": "0-1 Herzog",
+        "name_es": "",
+        "name_fr": "0-1 Duc"
+      },
+      "0-1 Field Trebuchet": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "0-1 Trébuchet de Campagne"
+      },
+      "0-1 Field Trebuchet per 1000 points": {
+        "name_de": "0-1 Feldtrebuchet pro 1.000 Punkte",
+        "name_es": "",
+        "name_fr": "0-1 Trébuchet de Campagne par tranche de 1000 points"
+      },
+      "0-1 unit of Battle Pilgrims may be taken as a Core choice": {
+        "name_de": "0-1 Einheit Gralspilger kann als Kern-Auswahl gewählt werden",
+        "name_es": "",
+        "name_fr": "0-1 unité de Pélerins du Graal peut être prise comme choix d'Unité de Base"
+      },
+      "0-1 unit of Battle Pilgrims per 1000 points": {
+        "name_de": "0-1 Einheit Gralspilger pro 1000 Punkte",
+        "name_es": "",
+        "name_fr": "0-1 unité de Pélerins du Graal par tranche de 1000 points"
+      },
+      "0-1 unit of Knights Errant per 1000 points": {
+        "name_de": "0-1 Einheit Fahrende Ritter pro 1000 Punkte",
+        "name_es": "",
+        "name_fr": "0-1 unité de Chevaliers Errants par tranche de 1000 points"
+      },
+      "0-1 unit of Knights Errant per unit of Knights of the Realm on Foot or Mounted Knights of the Realm taken": {
+        "name_de": "0-1 Einheit Fahrender Ritter pro gewählte Einheit Ritter des Königs zu Fuß oder Berittene Ritter des Königs",
+        "name_es": "",
+        "name_fr": "0-1 unité de Chevaliers Errants par unité de Chevaliers du Royaume à Pied ou de Chevaliers du Royaume Montés prise"
+      },
+      "0-2 units of Battle Pilgrims per 1000 points": {
+        "name_de": "0-2 Einheiten Gralspilger pro 1.000 Punkte",
+        "name_es": "",
+        "name_fr": "0-2 unités de Pélerins du Graal par tranche de 1000 points"
+      },
+      "1+ Paladin": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "1+ unit of Knights Errant per 1000 points": {
+        "name_de": "1+ Einheiten Fahrende Ritter pro 1000 Punkte",
+        "name_es": "",
+        "name_fr": "1+ unité de Chevaliers Errants et/ou 1000 par tranche de $4 points"
+      },
+      "1+ unit of Knights of the Realm on Foot and/or Mounted Knights of the Realm": {
+        "name_de": "1+ Einheiten Ritter des Königs zu Fuß und/oder Berittene Ritter des Königs",
+        "name_es": "",
+        "name_fr": "1+ unité de Chevaliers du Royaume à Pied et/ou de Chevaliers du Royaume Montés"
+      },
+      "1+ unit of Men-at-Arms and/or Peasant Bowmen": {
+        "name_de": "1+ Einheiten Landsknechte und/oder Bogenschützen",
+        "name_es": "",
+        "name_fr": "1+ unité d'Hommes d'Armes et/ou de Paysans Archers"
+      },
+      "1+ unit of Yeomen Guard and/or Peasant Bowmen": {
+        "name_de": "1+ Einheiten Freisassengarde und/oder Bogenschützen",
+        "name_es": "",
+        "name_fr": "1+ unité de Gardes Roturiers et/ou de Paysans Archers"
+      },
+      "Ambushers (if Skirmishers)": {
+        "name_de": "Überfall (1 Einheit wenn Plänkler)",
+        "name_es": "",
+        "name_fr": "Embusqueurs (si Tirailleurs)"
+      },
+      "Arcane Backlash": {
+        "name_de": "Arkane Rückkopplung",
+        "name_es": "",
+        "name_fr": "Contrecoup Arcanique"
+      },
+      "Armour Bane (2 - Ariandir only)": {
+        "name_de": "Aura der Herrin",
+        "name_es": "",
+        "name_fr": "Arme Perforante (2 - Ariandir uniquement)"
+      },
+      "Armoured Hide (1)": {
+        "name_de": "Bezaubernde Aura",
+        "name_es": "",
+        "name_fr": "Peau Blindée (1)"
+      },
+      "Aura of the Fay": {
+        "name_de": "Durch Deckung bewegen",
+        "name_es": "",
+        "name_fr": "Aura Féérique"
+      },
+      "Aura of the Lady": {
+        "name_de": "Aura der Herrin",
+        "name_es": "",
+        "name_fr": "Aura de la Dame"
+      },
+      "Barded Pegasus": {
+        "name_de": "Pegasus mit Rossharnisch",
+        "name_es": "",
+        "name_fr": "Pégase Caparaçonné"
+      },
+      "Baron": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Battle Pilgrims": {
+        "name_de": "Gralspilger",
+        "name_es": "",
+        "name_fr": "Pélerins du Graal"
+      },
+      "Beguiling Aura": {
+        "name_de": "Lehre der Herrin",
+        "name_es": "",
+        "name_fr": "Aura Envoûtante"
+      },
+      "Blessed Knight": {
+        "name_de": "Einzelgänger",
+        "name_es": "",
+        "name_fr": "Chevalier Béni"
+      },
+      "Blessed Triptych": {
+        "name_de": "Heiliges Triptychon",
+        "name_es": "",
+        "name_fr": "Triptyque Béni"
+      },
+      "Blessings of the Lady": {
+        "name_de": "Segen der Herrin",
+        "name_es": "",
+        "name_fr": "Bénédiction de la Dame"
+      },
+      "Blunderbusses": {
+        "name_de": "Donnerbüchse",
+        "name_es": "",
+        "name_fr": "Tromblons"
+      },
+      "Border Princes Bombard": {
+        "name_de": "Bombarde der Grenzgrafschaften",
+        "name_es": "",
+        "name_fr": "Bombarde des Principautés Frontalières"
+      },
+      "Border Princes Brigands": {
+        "name_de": "Briganten der Grenzgrafschaften",
+        "name_es": "",
+        "name_fr": "Brigands des Principautés Frontalières"
+      },
+      "Bretonnian Warhorse": {
+        "name_de": "Bretonisches Schlachtross",
+        "name_es": "",
+        "name_fr": "Destrier Bretonnien"
+      },
+      "Burning Braziers": {
+        "name_de": "Feuerschalen",
+        "name_es": "",
+        "name_fr": "Braséros"
+      },
+      "Cavalry spear": {
+        "name_de": "Kavalleriespeer (sofern geeignet beritten)",
+        "name_es": "",
+        "name_fr": "Lance de cavalerie"
+      },
+      "Cavalry spears": {
+        "name_de": "Kavalleriespeere",
+        "name_es": "",
+        "name_fr": "Lances de cavalerie"
+      },
+      "Chalice of Brionne": {
+        "name_de": "Kelch von Brionne",
+        "name_es": "",
+        "name_fr": "Calice de Brionne"
+      },
+      "Damsel": {
+        "name_de": "Maid",
+        "name_es": "",
+        "name_fr": "Damoiselle"
+      },
+      "Defensive Stakes": {
+        "name_de": "Pfähle",
+        "name_es": "",
+        "name_fr": "Pieux de Défense"
+      },
+      "Desperado (champion)": {
+        "name_de": "Rädelsführer",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Dispersed Formation": {
+        "name_de": "Erster Angriff",
+        "name_es": "",
+        "name_fr": "Formation Éparse"
+      },
+      "Dragonhide Cloak": {
+        "name_de": "Drachenhautmantel",
+        "name_es": "",
+        "name_fr": "Cape en Peau de Dragon"
+      },
+      "Duke": {
+        "name_de": "Herzog",
+        "name_es": "",
+        "name_fr": "Duc"
+      },
+      "Esquire (champion)": {
+        "name_de": "Junker",
+        "name_es": "",
+        "name_fr": "Escuyer (champion)"
+      },
+      "Ethereal": {
+        "name_de": "Entsetzen",
+        "name_es": "",
+        "name_fr": "Ethéré"
+      },
+      "Field Trebuchet": {
+        "name_de": "Feldtrebuchet",
+        "name_es": "",
+        "name_fr": "Trébuchet de Campagne"
+      },
+      "Finest Warhorses": {
+        "name_de": "Gegenangriff",
+        "name_es": "",
+        "name_fr": "Destriers Supérieurs"
+      },
+      "First Knight (champion)": {
+        "name_de": "Erster Ritter",
+        "name_es": "",
+        "name_fr": "Champion du Royaume (champion)"
+      },
+      "Furious Charge (Pegasus Knights & First Knight only)": {
+        "name_de": "Lanzenformation",
+        "name_es": "",
+        "name_fr": "Charge Dévastatrice (Chevaliers Pégases & Champion Pégase uniquement)"
+      },
+      "Gallant (champion)": {
+        "name_de": "Heißsporn",
+        "name_es": "",
+        "name_fr": "Preux Chevalier (champion)"
+      },
+      "Grail Guardian (champion)": {
+        "name_de": "Gralshüter",
+        "name_es": "",
+        "name_fr": "Gardien du Graal (champion)"
+      },
+      "Grail Guardian's Knightly Virtues": {
+        "name_de": "Rittertugend für Gralshüter",
+        "name_es": "",
+        "name_fr": "Vertu Chevaleresque du Gardien du Graal"
+      },
+      "Grail Knights": {
+        "name_de": "Gralsritter",
+        "name_es": "",
+        "name_fr": "Chevaliers du Graal"
+      },
+      "Grail Monk": {
+        "name_de": "Gralsmönch",
+        "name_es": "",
+        "name_fr": "Moine du Graal"
+      },
+      "Grail Reliquae": {
+        "name_de": "Gralsreliquie",
+        "name_es": "",
+        "name_fr": "Reliquaire du Graal"
+      },
+      "Guardian of the Sacred Sites": {
+        "name_de": "Gesegneter Ritter",
+        "name_es": "",
+        "name_fr": "Gardien des Sites Sacrés"
+      },
+      "Halberds": {
+        "name_de": "Hellebarden",
+        "name_es": "",
+        "name_fr": "Hallebardes"
+      },
+      "Hatred (all enemies)": {
+        "name_de": "Geschlossene Ränge",
+        "name_es": "",
+        "name_fr": "Haine (Tous les ennemis)"
+      },
+      "Hippogryph": {
+        "name_de": "Hippogreif",
+        "name_es": "",
+        "name_fr": "Hippogriffe"
+      },
+      "Horde": {
+        "name_de": "Geschlossene Ränge",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Knightly Virtues": {
+        "name_de": "Rittertugend",
+        "name_es": "",
+        "name_fr": "Vertus Chevaleresques"
+      },
+      "Knights Errant": {
+        "name_de": "Fahrende Ritter",
+        "name_es": "",
+        "name_fr": "Chevaliers Errants"
+      },
+      "Knights of the Realm on Foot": {
+        "name_de": "Ritter des Königs zu Fuß",
+        "name_es": "",
+        "name_fr": "Chevaliers du Royaume à Pied"
+      },
+      "Lady Élisse Duchaard": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Dame Élisse Duchaard"
+      },
+      "Lance Formation": {
+        "name_de": "Lanzenformation",
+        "name_es": "",
+        "name_fr": "Formation en Fer de Lance"
+      },
+      "Level 3 Wizard": {
+        "name_de": "Zauberer der Stufe 3",
+        "name_es": "",
+        "name_fr": "Sorcier de Niveau 3"
+      },
+      "Levies": {
+        "name_de": "Bauernvolk",
+        "name_es": "",
+        "name_fr": "Conscrits"
+      },
+      "Living Saints": {
+        "name_de": "Lanzenformation",
+        "name_es": "",
+        "name_fr": "Saints Vivants"
+      },
+      "Loner": {
+        "name_de": "Immun gegen Psychologie",
+        "name_es": "",
+        "name_fr": "Solitaire"
+      },
+      "Longbows": {
+        "name_de": "Langbogen",
+        "name_es": "",
+        "name_fr": "Arcs longs"
+      },
+      "Lore of the Lady": {
+        "name_de": "Magieresistenz (-2)",
+        "name_es": "",
+        "name_fr": "Domaine de la Dame"
+      },
+      "Magic Resistance (-2)": {
+        "name_de": "Schild der Herrin",
+        "name_es": "",
+        "name_fr": "Résistance à la Magie (-2)"
+      },
+      "Magical Attacks": {
+        "name_de": "Magische Attacken",
+        "name_es": "",
+        "name_fr": "Attaques Magiques"
+      },
+      "Men-at-Arms": {
+        "name_de": "Landsknechte",
+        "name_es": "",
+        "name_fr": "Hommes d'Armes"
+      },
+      "Morning Star": {
+        "name_de": "Morgenstern",
+        "name_es": "",
+        "name_fr": "Morgenstern"
+      },
+      "Morning star": {
+        "name_de": "Morgenstern",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Mounted Knights of the Realm": {
+        "name_de": "Berittene Ritter des Königs",
+        "name_es": "",
+        "name_fr": "Chevaliers du Royaume Montés"
+      },
+      "Mounted Yeomen": {
+        "name_de": "Berittene Freisassen",
+        "name_es": "",
+        "name_fr": "Sergents montés"
+      },
+      "No armour": {
+        "name_de": "keine Rüstung",
+        "name_es": "",
+        "name_fr": "Pas d'armure"
+      },
+      "Outcast Wizard": {
+        "name_de": "Ausgestoßene Zauberer",
+        "name_es": "",
+        "name_fr": "Mage Proscrit"
+      },
+      "Paladin": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Paragon (champion)": {
+        "name_de": "Eremit",
+        "name_es": "",
+        "name_fr": "Champion de la Quête (champion)"
+      },
+      "Paragon's Knightly Virtues": {
+        "name_de": "Rittergelübde für Eremit",
+        "name_es": "",
+        "name_fr": "Vertu Chevaleresque du Champion de la Quête"
+      },
+      "Peasant Bowmen": {
+        "name_de": "Bogenschützen",
+        "name_es": "",
+        "name_fr": "Paysans Archers"
+      },
+      "Peasant's Duty": {
+        "name_de": "Des Bauern Pflicht",
+        "name_es": "",
+        "name_fr": "Devoir du Paysan"
+      },
+      "Peasantry": {
+        "name_de": "Gesindel",
+        "name_es": "",
+        "name_fr": "Paysannerie"
+      },
+      "Pegasus Knights": {
+        "name_de": "Pegasusritter",
+        "name_es": "",
+        "name_fr": "Chevaliers Pégases"
+      },
+      "Pistols": {
+        "name_de": "Pistole",
+        "name_es": "",
+        "name_fr": "Pistolets"
+      },
+      "Polearms": {
+        "name_de": "Stangenwaffe",
+        "name_es": "",
+        "name_fr": "Armes d'hast"
+      },
+      "Prophetess": {
+        "name_de": "Dame",
+        "name_es": "",
+        "name_fr": "Prophétesse"
+      },
+      "Questing Knights": {
+        "name_de": "Questritter",
+        "name_es": "",
+        "name_fr": "Chevaliers de la Quête"
+      },
+      "Replace the Open Order special rule with Close Order (0-1 per 1000 points)": {
+        "name_de": "0-1 Einheit pro 1000 Pkte kann Offene Ränge durch Geschlossene Ränge ersetzen",
+        "name_es": "",
+        "name_fr": "Remplacer la règle spéciale Ordre Dispersé par Ordre Serré (0-1 par tranche de 1000 points)"
+      },
+      "Replace the Open Order special rule with Skirmishers (0-1 per 1000 points)": {
+        "name_de": "0-1 Einheit pro 1000 Pkte kann Offene Ränge durch Plänkler ersetzen",
+        "name_es": "",
+        "name_fr": "Remplacer la règle spéciale Ordre Dispersé par Tirailleurs (0-1 par tranche de 1000 points)"
+      },
+      "Reserve Move": {
+        "name_de": "Reservebewegung",
+        "name_es": "",
+        "name_fr": "Mouvement de Réserve"
+      },
+      "Royal Pegasus": {
+        "name_de": "Königspegasus",
+        "name_es": "",
+        "name_fr": "Pégase Royal"
+      },
+      "Scouts (if Skirmishers)": {
+        "name_de": "Kundschafter (1 Einheit wenn Plänkler)",
+        "name_es": "",
+        "name_fr": "Éclaireurs (si Tirailleurs)"
+      },
+      "Sergeant-at-Arms": {
+        "name_de": "Korporal",
+        "name_es": "",
+        "name_fr": "Sergent d'Armes"
+      },
+      "Shield of the Lady": {
+        "name_de": "Segen der Herrin",
+        "name_es": "",
+        "name_fr": "Bouclier de la Dame"
+      },
+      "Shortbows": {
+        "name_de": "Kurzbogen",
+        "name_es": "",
+        "name_fr": "Arcs courts"
+      },
+      "Sir Cecil Gastonne": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Sorrow's End": {
+        "name_de": "Ende der Trauer (Axt)",
+        "name_es": "",
+        "name_fr": "Consolatrice"
+      },
+      "Squires": {
+        "name_de": "Knappen",
+        "name_es": "",
+        "name_fr": "Écuyers"
+      },
+      "Stomp Attacks (1)": {
+        "name_de": "Segen der Herrin",
+        "name_es": "",
+        "name_fr": "Attaques de Piétinement (1)"
+      },
+      "The Crusader's Vow (replaces the Knight's Vow)": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "The Dolorous Blade": {
+        "name_de": "Die Klinge des Leids",
+        "name_es": "",
+        "name_fr": "La Lame de Douleur"
+      },
+      "The Exile's Vow": {
+        "name_de": "Das Exilantengelübde",
+        "name_es": "",
+        "name_fr": "Le Vœu de l'Exilé"
+      },
+      "The Exile's Vow (replaces the Knight's Vow)": {
+        "name_de": "Das Exilantengelübde",
+        "name_es": "",
+        "name_fr": "Le Vœu de l'Exilé"
+      },
+      "The Grail Vow": {
+        "name_de": "Gralsgelübde",
+        "name_es": "",
+        "name_fr": "Le Vœu du Graal"
+      },
+      "The Green Knight": {
+        "name_de": "Der grüne Ritter",
+        "name_es": "",
+        "name_fr": "Le Chevalier de Sinople"
+      },
+      "The Knight's Vow": {
+        "name_de": "Rittertugend",
+        "name_es": "",
+        "name_fr": "le Vœu du Chevalier"
+      },
+      "The Questing Vow": {
+        "name_de": "Questgelübde",
+        "name_es": "",
+        "name_fr": "Le Vœu de la Quête"
+      },
+      "The Staff of the Elements": {
+        "name_de": "Stab der Elemente",
+        "name_es": "",
+        "name_fr": "Le Bâton des Éléments"
+      },
+      "The Wyrm Slayer": {
+        "name_de": "Der Wyrmtöter",
+        "name_es": "",
+        "name_fr": "Le Sauroctone"
+      },
+      "Unicorn": {
+        "name_de": "Einhorn",
+        "name_es": "",
+        "name_fr": "Licorne"
+      },
+      "Unstable": {
+        "name_de": "Unsterblich",
+        "name_es": "",
+        "name_fr": "Instables"
+      },
+      "Untutored Arcanist": {
+        "name_de": "Ungelernter Arkanist",
+        "name_es": "",
+        "name_fr": "Arcaniste Autodidacte"
+      },
+      "Villein (champion)": {
+        "name_de": "Grundhöriger",
+        "name_es": "",
+        "name_fr": "Maître Archer (champion)"
+      },
+      "Warband": {
+        "name_de": "Kriegerschar",
+        "name_es": "",
+        "name_fr": "Bande de Guerre"
+      },
+      "Warden (champion)": {
+        "name_de": "Voigt",
+        "name_es": "",
+        "name_fr": "Prévôt (champion)"
+      },
+      "Warhorse {bretonnia}": {
+        "name_de": "Schlachtross",
+        "name_es": "Warhorse",
+        "name_fr": "Destrier"
+      },
+      "Yeoman (champion)": {
+        "name_de": "Freisasse",
+        "name_es": "",
+        "name_fr": "Prévôt (champion)"
+      },
+      "Yeomen Guard": {
+        "name_de": "Freisassengarde",
+        "name_es": "",
+        "name_fr": "Gardes Roturiers"
+      },
+      "if appropriately mounted": {
+        "name_de": "sofern geeignet beritten",
+        "name_es": "",
+        "name_fr": "si monté"
+      },
+      "the Questing Vow": {
+        "name_de": "Schnelle Bewegung",
+        "name_es": "",
+        "name_fr": "le Vœu de la Quête"
+      }
+    },
+    "magic-items.json": {
+      "'Eadbuttin' 'At*": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Cask' à Coup d'Boule*"
+      },
+      "A Befuddlement of Mischiefs": {
+        "name_de": "Wirrlichter",
+        "name_es": "",
+        "name_fr": "Foule de Malicieux"
+      },
+      "A Blight of Terrors": {
+        "name_de": "Schreckensfeen",
+        "name_es": "",
+        "name_fr": "Bande de Terreurs"
+      },
+      "A Lamentation of Despairs": {
+        "name_de": "Schicksalsschwestern",
+        "name_es": "",
+        "name_fr": "Troupe de Désespoirs"
+      },
+      "A Murder of Spites": {
+        "name_de": "Blutfeen",
+        "name_es": "",
+        "name_fr": "Troupe de Tranchants"
+      },
+      "A Muster of Malevolents": {
+        "name_de": "Giftfeen",
+        "name_es": "",
+        "name_fr": "Nuée de Piquants"
+      },
+      "A Resplendence of Luminescents": {
+        "name_de": "Flimmerlichter",
+        "name_es": "",
+        "name_fr": "Cénacle de Lumineux"
+      },
+      "Acid Ichor": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Ichor Acide"
+      },
+      "Allure of Slaanesh": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Beauté de Slaanesh"
+      },
+      "Amulet of the Serpent": {
+        "name_de": "Amulett der Schlange",
+        "name_es": "",
+        "name_fr": "Amulette du Serpent"
+      },
+      "Amulet of the Tempest": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "An Annoyance of Netlings": {
+        "name_de": "Spinnlinge",
+        "name_es": "",
+        "name_fr": "Pléiade de Tisseurs"
+      },
+      "Annulian Crystal": {
+        "name_de": "Annulianischer Kristall",
+        "name_es": "",
+        "name_fr": "Cristal des Annulii"
+      },
+      "Anointed Armour": {
+        "name_de": "Gesalbte Rüstung",
+        "name_es": "",
+        "name_fr": "Armure Consacrée"
+      },
+      "Anointed of Asuryan": {
+        "name_de": "Gesalbter Asuryan",
+        "name_es": "",
+        "name_fr": "Élu d'Asuryan"
+      },
+      "Antlers of the Great Hunt": {
+        "name_de": "Trophaen der Großen Jagd",
+        "name_es": "",
+        "name_fr": "Bois de la Grande Chasse"
+      },
+      "Arcane Familiar": {
+        "name_de": "Arkaner Homunkulusr",
+        "name_es": "",
+        "name_fr": "Familier des Arcanes"
+      },
+      "Armour of Bazherak the Cruel": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Armure de Bazherak le Cruel"
+      },
+      "Armour of Caledor": {
+        "name_de": "Rüstung von Caledor",
+        "name_es": "",
+        "name_fr": "Armure de Caledor"
+      },
+      "Armour of Destiny": {
+        "name_de": "Rüstung des Schicksals",
+        "name_es": "",
+        "name_fr": "Armure du Destin"
+      },
+      "Armour of Fortune": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Armure de Bonne Fortune"
+      },
+      "Armour of Khorne": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Armure de Khorne"
+      },
+      "Armour of Meteoric Iron": {
+        "name_de": "Meteoreisenrüstung",
+        "name_es": "",
+        "name_fr": "Armure de Fer Météorique"
+      },
+      "Armour of Mork": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Armure de Mork"
+      },
+      "Armour of Silvered Steel": {
+        "name_de": "Silberstahlrüstungl",
+        "name_es": "",
+        "name_fr": "Armure de Fer-argent"
+      },
+      "Armour of Stars": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Armour of Tarnus": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Armure de Tarnus"
+      },
+      "Armour of the Ages": {
+        "name_de": "Rüstung der Zeitalter",
+        "name_es": "",
+        "name_fr": "Armure des Âges"
+      },
+      "Armour of the Damned": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Armure des Damnés"
+      },
+      "Ashen Banner": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Bannière Cendrée"
+      },
+      "Asyendi's Bane": {
+        "name_de": "Asyendis Fluch",
+        "name_es": "",
+        "name_fr": "Fléau d'Asyendi"
+      },
+      "Aura of Pain": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Aura de Douleur"
+      },
+      "Aura of Quetzl": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Aura de Quetzl"
+      },
+      "Axe of Khorne*": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Hache de Khorne*"
+      },
+      "Axe of Men": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Hache des Hommes"
+      },
+      "Backstabber's Blade*": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Lame du Traître*"
+      },
+      "Banner of Acquiescence": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Bannière du Consentement"
+      },
+      "Banner of Arcane Protection": {
+        "name_de": "Banner des arkanen Schutzes",
+        "name_es": "",
+        "name_fr": "Bannière de Protection Magique"
+      },
+      "Banner of Balance": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Banner of Change": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Bannière du Changement"
+      },
+      "Banner of Châlons": {
+        "name_de": "Banner von Chálons",
+        "name_es": "",
+        "name_fr": "Bannière de Châlons"
+      },
+      "Banner of Confidence": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Banner of Discord": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Bannière de Discorde"
+      },
+      "Banner of Duty": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Bannière du Devoir"
+      },
+      "Banner of Ellyrion": {
+        "name_de": "Banner von Ellyrion",
+        "name_es": "",
+        "name_fr": "Bannière d'Ellyrion"
+      },
+      "Banner of Har Ganeth": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Bannière de Har Ganeth"
+      },
+      "Banner of Honourable Warfare": {
+        "name_de": "Banner der ehrenhaften Kriegsführung",
+        "name_es": "",
+        "name_fr": "Bannière de la Guerre Honorable"
+      },
+      "Banner of Iron Resolve": {
+        "name_de": "Banner der Eisernen Entschlossenheit",
+        "name_es": "",
+        "name_fr": "Bannière de Détermination"
+      },
+      "Banner of Midsummer's Eve": {
+        "name_de": "Banner des Midsommerabends",
+        "name_es": "",
+        "name_fr": "Bannière du Solstice d'Été"
+      },
+      "Banner of Nagarythe": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Bannière de Nagarythe"
+      },
+      "Banner of Outrage": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Bannière de l'Outrage"
+      },
+      "Banner of Rage": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Bannière de Rage"
+      },
+      "Banner of Resilience": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Banner of Unholy Victory": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Bannière de Victoire Impie"
+      },
+      "Banner of Verminous Scurrying": {
+        "name_de": "Banner des Ungezieferhuschens",
+        "name_es": "Estandarte de escurrimientos verminosos",
+        "name_fr": "Bannière de Vivacité Vermineuse"
+      },
+      "Banner of the Barrows": {
+        "name_de": "Banner der Gräber",
+        "name_es": "Estandarte de los túmulos",
+        "name_fr": "Bannière des Tertres"
+      },
+      "Banner of the Baying Hound": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Bannière du Molosse"
+      },
+      "Banner of the Dark Powers": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Bannière des Puissances Obscures"
+      },
+      "Banner of the Desert Winds": {
+        "name_de": "Banner der Wüstenwinde",
+        "name_es": "",
+        "name_fr": "Bannière des Vents du Désert"
+      },
+      "Banner of the Eternal Queen": {
+        "name_de": "Banner der ewigen Königin",
+        "name_es": "",
+        "name_fr": "Bannière de la Reine Éternelle"
+      },
+      "Banner of the Gods": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Bannière des Dieux"
+      },
+      "Banner of the Hunter King": {
+        "name_de": "Banner des Jägerkönigs",
+        "name_es": "",
+        "name_fr": "Bannière du Roi Chasseur"
+      },
+      "Banner of the Knights Panther": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Bannière des Chevaliers Panthères"
+      },
+      "Banner of the Lady's Grace": {
+        "name_de": "Banner der Anmut der Herrin",
+        "name_es": "",
+        "name_fr": "Bannière de la Grâce de la Dame"
+      },
+      "Banner of the Wildwood": {
+        "name_de": "Standarte des Bannwalds",
+        "name_es": "",
+        "name_fr": "Bannière du Bois Sauvage"
+      },
+      "Banner of the Wildz": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Bannière des Terres Sauvaj'"
+      },
+      "Banner of the Zealous Knight": {
+        "name_de": "Banner des frommen Ritters",
+        "name_es": "",
+        "name_fr": "Bannière du Chevalier Zélé"
+      },
+      "Battle Banner": {
+        "name_de": "Schlachtbanner",
+        "name_es": "",
+        "name_fr": "Bannière de Bataille"
+      },
+      "Battleaxe of the last big Waaagh!": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Hache de la Der des Der"
+      },
+      "Beastkiller": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Trucide-fauve"
+      },
+      "Becalming Cogitation": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Aphorisme Apaisant"
+      },
+      "Bedazzling Helm": {
+        "name_de": "Schimmerhelm",
+        "name_es": "",
+        "name_fr": "Heaume du Trompeur"
+      },
+      "Beguile": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Séduction"
+      },
+      "Berserker Blade": {
+        "name_de": "Berserkerklinge",
+        "name_es": "",
+        "name_fr": "Lame Berserk"
+      },
+      "Big Boss 'At": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Casque eud' Chef"
+      },
+      "Bigger": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Grosse Hache Ki Koup' Pluss"
+      },
+      "Biting Blade": {
+        "name_de": "Reißende Klinge",
+        "name_es": "",
+        "name_fr": "Lame de Morsure"
+      },
+      "Black Dragon Egg": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Œuf de Dragon Noir"
+      },
+      "Black Hammer of Hashut": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Marteau Noir d'Hashut"
+      },
+      "Black Lotus": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Lotus Noir"
+      },
+      "Black Staff": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Bâton Noir"
+      },
+      "Blade of Antarhak": {
+        "name_de": "Klinge von Antarhak",
+        "name_es": "",
+        "name_fr": "Lame d'Antharak"
+      },
+      "Blade of Nurglitch": {
+        "name_de": "Klinge von Nurglitch",
+        "name_es": "Hoja de Nurglitch",
+        "name_fr": "Lame de Nurglitch"
+      },
+      "Blade of Revered Tzunki": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Lame du Révéré Tzunki"
+      },
+      "Blade of Sea Gold": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Blade of Silvered Steel": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Lame d'Acier Argenté"
+      },
+      "Blades of Loec": {
+        "name_de": "Klingen des Loec",
+        "name_es": "",
+        "name_fr": "Lames de Loec"
+      },
+      "Blasted Standard": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Étendard de Fournaise"
+      },
+      "Blood Armour": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Armure de Sang"
+      },
+      "Blood Drinker": {
+        "name_de": "Bluttrinker",
+        "name_es": "Bebedor de sangre",
+        "name_fr": "Buveur de Sang"
+      },
+      "Blood of Caledor": {
+        "name_de": "Blut von Caledor",
+        "name_es": "",
+        "name_fr": "Sang de Caledor"
+      },
+      "Bloodcleaver": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Tranche-sang"
+      },
+      "Bloodskull Pendant": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Pendantif du Crâne de Sang"
+      },
+      "Book of Ashur": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Livre d'Ashur"
+      },
+      "Bow of Loren": {
+        "name_de": "Bogen von Loren",
+        "name_es": "",
+        "name_fr": "Arc de Loren"
+      },
+      "Bow of the Seafarer": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Brass Orb": {
+        "name_de": "Messingkugel",
+        "name_es": "Orbe de latón",
+        "name_fr": "Orbe d'Airain"
+      },
+      "Brazen Collar*": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Collier d'Airain*"
+      },
+      "Breath of Hashut": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Souffle d'Hashut"
+      },
+      "Bull Standard": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Étendard du Buffle"
+      },
+      "Burning Blade*": {
+        "name_de": "Brennende Klinge*",
+        "name_es": "",
+        "name_fr": "Lame Ardente*"
+      },
+      "Buzgob's Knobbly Staff": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Bâton Zarbi de Buzgob"
+      },
+      "Cannibal Totem": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Totem Cannibale"
+      },
+      "Cathayan Jet Pendant": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Pendentif de Jais Cathayen"
+      },
+      "Cautious Shield": {
+        "name_de": "Vorsichtiger Schild",
+        "name_es": "Escudo cauteloso",
+        "name_fr": "Bouclier de Couardise"
+      },
+      "Chaos Runesword": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Épée Runique du Chaos"
+      },
+      "Charmed Shield*": {
+        "name_de": "Glücksbringender Schild*",
+        "name_es": "",
+        "name_fr": "Bouclier Ensorcelé*"
+      },
+      "Chieftain's Blade": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Lame du Chef"
+      },
+      "Choppier Axe": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Chracian Hunter": {
+        "name_de": "Chracianischer Jäger",
+        "name_es": "",
+        "name_fr": "Chasseur Chracien"
+      },
+      "Circlet of Atrazar": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Cloak of Feathers": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Cape de Plumes"
+      },
+      "Cloak of Mist & Shadows": {
+        "name_de": "Umhang aus Nebel und Schatten",
+        "name_es": "Capa de niebla y sombras",
+        "name_fr": "Cape de Brume et d'Ombres"
+      },
+      "Cloak of the Dunes": {
+        "name_de": "Staubmantel",
+        "name_es": "",
+        "name_fr": "Cape des Dunes"
+      },
+      "Cold-Blooded Banner": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Bannière de Sang-froid"
+      },
+      "Collar of Khorne*": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Collier de Khorne*"
+      },
+      "Collar of Shapesh": {
+        "name_de": "Kragen des Shapesh",
+        "name_es": "",
+        "name_fr": "Collier de Shapesh"
+      },
+      "Conqueror's Tapestry": {
+        "name_de": "Gobelin der Heldentaten",
+        "name_es": "",
+        "name_fr": "Tapisserie du Conquérant"
+      },
+      "Crimson Armour of Dargan": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Armure Pourpre de Dargan"
+      },
+      "Crook & Flail of Radiance": {
+        "name_de": "Insignien der Macht",
+        "name_es": "",
+        "name_fr": "Crosse & Flagellum de Majesté"
+      },
+      "Crown of Everlasting Conquest": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Couronne de Conquête Éternelle"
+      },
+      "Crown of Horns": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Couronne de Cornes"
+      },
+      "Crown of Kings*": {
+        "name_de": "Krone der Könige*",
+        "name_es": "",
+        "name_fr": "Couronne des Rois*"
+      },
+      "Crown of the Damned": {
+        "name_de": "Krone der Verdammten",
+        "name_es": "Corona de los condenados",
+        "name_fr": "Couronne des Damnés"
+      },
+      "Crusader's Clarion": {
+        "name_de": "Fanfare desKkreuzritters",
+        "name_es": "",
+        "name_fr": "Clairon du Croisé"
+      },
+      "Crusader's Lance": {
+        "name_de": "Lanze des Kreuzritters",
+        "name_es": "",
+        "name_fr": "Lance du Croisé"
+      },
+      "Crusader's Tapestry": {
+        "name_de": "Gobelin des Kreuzritters",
+        "name_es": "",
+        "name_fr": "Tapisserie du Croisé"
+      },
+      "Cry of War": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Cri de Guerre"
+      },
+      "Crystal Ball": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Boule de Cristal"
+      },
+      "Cube of Darkness*": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Cube de Ténèbres*"
+      },
+      "Cupped Hands of the Old Ones": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Mains en Creux des Anciens"
+      },
+      "Curse of the Revenant": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Malédiction du Revenant"
+      },
+      "Curse-Weaver Wand": {
+        "name_de": "Fluchweber-Zauberstab",
+        "name_es": "",
+        "name_fr": "Baguette Tisse-Malheur"
+      },
+      "Da Akrit Axe": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "La Hache Préciz'"
+      },
+      "Da Angry Ladz Flag": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "L'Drapeau des Gars Zenragés"
+      },
+      "Da Banner of Butchery": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "La Bannière du Karnaj'"
+      },
+      "Da Banner of Da Nomadz": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "La Bannière des Nomadz"
+      },
+      "Da Choppiest Choppa": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Kikoup' Ki Koupe"
+      },
+      "Da Hag's Brew": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "L'Breuvage d'la Mégère"
+      },
+      "Da Spider Banner": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "La Bannière Araignée"
+      },
+      "Da Thinkin' Orc's 'At": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "L'Chapeau d'Intello"
+      },
+      "Daemon Flask": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Flasque Démoniaque"
+      },
+      "Daemon-Flesh": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Chair Démoniaque"
+      },
+      "Daemon-Forged Barding": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Caparaçon Démoniaque"
+      },
+      "Daemon-Slayer Scars": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Scarifications Démoniaques"
+      },
+      "Daemonic Familiar": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Familier Démoniaque"
+      },
+      "Daemonic Platemail": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Plate Démoniaque"
+      },
+      "Daemonic Robes": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Robes Démoniaques"
+      },
+      "Daemonsword": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Épée-démon"
+      },
+      "Dagger of Malice": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Dague de Malice"
+      },
+      "Dagger of the Dark Pantheon": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Dague du Sombre Panthéon"
+      },
+      "Dark Acolyte": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Sombre Acolyte"
+      },
+      "Dark Heart*": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Cœur Noir*"
+      },
+      "Dark Majesty": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Sombre Majesté"
+      },
+      "Dark Maul": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Masse des Ténèbres"
+      },
+      "Dark Venom": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Venin Fuligineux"
+      },
+      "Dawnstone": {
+        "name_de": "Dämmerstein",
+        "name_es": "",
+        "name_fr": "Pierre de l'Aube"
+      },
+      "Dead 'Ard Armour": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Armure Très Durze"
+      },
+      "Death Globe*": {
+        "name_de": "Todesglobus*",
+        "name_es": "Globo de la muerte*",
+        "name_fr": "Sphère de Mort*"
+      },
+      "Death Mask of Kharnutt": {
+        "name_de": "Totenmaske des Kharnutt",
+        "name_es": "",
+        "name_fr": "Masque Mortuaire de Kharnutt"
+      },
+      "Deathcheater": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Trompe-la-mort"
+      },
+      "Deepwood Sphere": {
+        "name_de": "Kugel des tiefen Waldes",
+        "name_es": "",
+        "name_fr": "Sphère des Bois Profonds"
+      },
+      "Destroyer of Eternities": {
+        "name_de": "Zerstörer der Ewigkeiten",
+        "name_es": "",
+        "name_fr": "Destructeur d'Éternité"
+      },
+      "Diabolic Splendour": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Splendeur Diabolique"
+      },
+      "Diadem of Power": {
+        "name_de": "Diadem der Macht",
+        "name_es": "",
+        "name_fr": "Diadème de Pouvoir"
+      },
+      "Dispel Scroll*": {
+        "name_de": "Magiebannende Spruchrolle*",
+        "name_es": "",
+        "name_fr": "Parchemin de Dissipation*"
+      },
+      "Doom Totem": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Totem Funeste"
+      },
+      "Dragon Bow": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Arc Dragon"
+      },
+      "Dragon Helm": {
+        "name_de": "Drachenhelm",
+        "name_es": "",
+        "name_fr": "Heaume Dragon"
+      },
+      "Dragon Slaying Sword": {
+        "name_de": "Schwert des Drachentöters",
+        "name_es": "",
+        "name_fr": "Épée Tueuse de Dragons"
+      },
+      "Dragonhide Banner": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Bannière en Peau de Dragon"
+      },
+      "Drakenhof Banner": {
+        "name_de": "Drakenhof-Banner",
+        "name_es": "Estandarte de Drakenhof",
+        "name_fr": "Bannière de Drakenhof"
+      },
+      "Dreadlance": {
+        "name_de": "",
+        "name_es": "Lanza aterradora",
+        "name_fr": "Lance d'Effroi"
+      },
+      "Duellist's Blades": {
+        "name_de": "Duellklingen",
+        "name_es": "",
+        "name_fr": "Lames d'Escrimeur"
+      },
+      "Dwarf Hide Banner": {
+        "name_de": "Zwergenfell-Banner",
+        "name_es": "Estandarte de piel de enano",
+        "name_fr": "Bannière en Peau de Nain"
+      },
+      "Earthing Rod": {
+        "name_de": "Erdener Stab",
+        "name_es": "",
+        "name_fr": "Bâton Catalyseur"
+      },
+      "Effigy of Mork": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Effigie de Mork"
+      },
+      "Enchanted Rune": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Rune Enchantée"
+      },
+      "Enchanted Shield*": {
+        "name_de": "Verzauberter Schild*",
+        "name_es": "",
+        "name_fr": "Bouclier Enchanté*"
+      },
+      "Enchanting Aura": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Aura Enchanteresse"
+      },
+      "Enkhil's Kanopi": {
+        "name_de": "Enkhils Kanope",
+        "name_es": "",
+        "name_fr": "Canope d'Enkhil"
+      },
+      "Enrapturing Gaze*": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Regard Envoûtant*"
+      },
+      "Errantry Banner": {
+        "name_de": "Banner der Fahrenden Ritter",
+        "name_es": "",
+        "name_fr": "Bannière d'Errance"
+      },
+      "Executioner's Axe": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Hache du Bourreau"
+      },
+      "Extra Arm": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Bras Supplémentaire"
+      },
+      "Falcon-horn of Fredemund": {
+        "name_de": "Falkenhorn des Fredemund",
+        "name_es": "",
+        "name_fr": "Le Cor de Fredemund"
+      },
+      "Favour of the Gods*": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Faveur des Dieux*"
+      },
+      "Feedback Scroll": {
+        "name_de": "Schriftrolle der Rückkopplung",
+        "name_es": "",
+        "name_fr": "Parchemin de Rebond"
+      },
+      "Filth Mace": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Masse d'Infection"
+      },
+      "Fistful of Laurels*": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Couronne de Lauriers*"
+      },
+      "Flail of Skulls": {
+        "name_de": "Schädelflegel",
+        "name_es": "",
+        "name_fr": "Fléau de Crânes"
+      },
+      "Flamestrike Wand": {
+        "name_de": "Flammenschlag-Zauberstab",
+        "name_es": "",
+        "name_fr": "Baguette de Frappe Incandescente"
+      },
+      "Flying Carpet": {
+        "name_de": "Fliegender Teppich",
+        "name_es": "",
+        "name_fr": "Tapis Volant"
+      },
+      "Flying Horror": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Créature Ailée"
+      },
+      "Focus Familiar*": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Familier Espion*"
+      },
+      "Foe Bane": {
+        "name_de": "Feindfluch",
+        "name_es": "",
+        "name_fr": "Épée du Bannissement"
+      },
+      "Foebreaker": {
+        "name_de": "Feindbrecher",
+        "name_es": "",
+        "name_fr": "Brise-ennemis"
+      },
+      "Frontier Axe": {
+        "name_de": "Grenzlandaxt",
+        "name_es": "",
+        "name_fr": "Hache Frontalière"
+      },
+      "Frostblade": {
+        "name_de": "Frostklinge",
+        "name_es": "Hoja de escarcha",
+        "name_fr": "Lame de Givre"
+      },
+      "Fungus Wine*": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Vin de Champignon*"
+      },
+      "Gauntlet of the Duel*": {
+        "name_de": "Fehdehandschuh*",
+        "name_es": "",
+        "name_fr": "Gantelet de Duel*"
+      },
+      "Gem of Courage*": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Giant Blade": {
+        "name_de": "Riesenklinge",
+        "name_es": "",
+        "name_fr": "Lame de Géant"
+      },
+      "Giantbreaker": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Brise-géant"
+      },
+      "Gilded Cuirass": {
+        "name_de": "Güldener Kürass",
+        "name_es": "",
+        "name_fr": "Cuirasse Dorée"
+      },
+      "Glamourweave": {
+        "name_de": "Funkelstern",
+        "name_es": "",
+        "name_fr": "Écheveau Féérique"
+      },
+      "Glittering Scales": {
+        "name_de": "Glitzernde Schuppenrüstung",
+        "name_es": "",
+        "name_fr": "Écailles Étincelantes"
+      },
+      "Glittering Wotnots": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Babiol' ki Brillent"
+      },
+      "Glowy Green Amulet": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Amulette Verte Luisante"
+      },
+      "Glyph Necklace": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Collier de Glyphes"
+      },
+      "Gnarled Hide": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Peau Noueuse"
+      },
+      "Gouge-tusks": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Défenses Déchiqueteuses"
+      },
+      "Grail Pendant": {
+        "name_de": "Gralsanhänger",
+        "name_es": "",
+        "name_fr": "Pendentif du Graal"
+      },
+      "Grand Banner of Superiority": {
+        "name_de": "Großes Banner der Überlegenheit",
+        "name_es": "Gran Estandarte de Superioridad",
+        "name_fr": "Bannière de Supériorité"
+      },
+      "Great Standard of Sundering": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Grand Étendard de l'Écrasement"
+      },
+      "Griffon Standard": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Bannière du Griffon"
+      },
+      "Grimoire of Ogvold": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Grimoire d'Ogvold"
+      },
+      "Grisly Trophy Rack": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Râtelier à Trophées Macabres"
+      },
+      "Gromril Great Helm": {
+        "name_de": "Gromril-Vollhelm",
+        "name_es": "",
+        "name_fr": "Grand Heaume de Gromril"
+      },
+      "Grudge Rune*": {
+        "name_de": "Grollrune*",
+        "name_es": "",
+        "name_fr": "Rune de Rancune*"
+      },
+      "Grut's Sickle": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Serpe de Grut"
+      },
+      "Guff's Windy Banner": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Bannière Venteuse de Guff"
+      },
+      "Gut Maw": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Plaque Ventrale de La Gueule"
+      },
+      "Hagtree Fetish": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Fétiche d'Arbres aux Pendus"
+      },
+      "Hail of Doom Arrow*": {
+        "name_de": "Pfeilhagel des Verderbens*",
+        "name_es": "",
+        "name_fr": "Grêle de Mort*"
+      },
+      "Halfling Cookbook": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Livre de Recettes Halfling"
+      },
+      "Hammer of Righteousness": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Marteau de Droiture"
+      },
+      "Hand of Dust": {
+        "name_de": "Hand aus Staub",
+        "name_es": "Mano De Polvo",
+        "name_fr": "Main de Poussière"
+      },
+      "Harrowing Scrutiny": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Regard Pénétrant"
+      },
+      "Headsman's Axe": {
+        "name_de": "Henkersbeil",
+        "name_es": "",
+        "name_fr": "Hache de Bourreau"
+      },
+      "Healing Potion*": {
+        "name_de": "Heiltrank*",
+        "name_es": "",
+        "name_fr": "Potion de Soin*"
+      },
+      "Heart of the Wilds": {
+        "name_de": "Herz der Wildnis",
+        "name_es": "",
+        "name_fr": "Cœur des Terres Sauvages"
+      },
+      "Heartwood Lance": {
+        "name_de": "Kernholzlanze",
+        "name_es": "",
+        "name_fr": "Lance du Chêne Sacré"
+      },
+      "Hellheart": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Cœur Infernal"
+      },
+      "Hellshard": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Éclat Infernal"
+      },
+      "Helm of Commandment": {
+        "name_de": "Helm des Gebotes",
+        "name_es": "Yelmo de mandamiento",
+        "name_fr": "Heaume de Commandement"
+      },
+      "Helm of Many Eyes": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Heaume aux Yeux Innombrables"
+      },
+      "Helm of the Hunt": {
+        "name_de": "Helm der Jagd",
+        "name_es": "",
+        "name_fr": "Coiffe de la Chasse"
+      },
+      "Hide of the Cold Ones": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Peau de Sang-froid"
+      },
+      "Hieratic Jar*": {
+        "name_de": "Urne der Anrufung*",
+        "name_es": "",
+        "name_fr": "Jarre Hiératique*"
+      },
+      "Higher State of Mind": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "État supérieur de Conscience"
+      },
+      "Horn of the First Beast": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Cor de la Première Bête"
+      },
+      "Horned One*": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Cornue*"
+      },
+      "Hunter's Spear": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Lance du Chasseur"
+      },
+      "Hydra's Tooth": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Dent d'Hydre"
+      },
+      "Icon of Darkness": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Icône des Ténèbres"
+      },
+      "Icon of Endless War": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Icône de Guerre Infinie"
+      },
+      "Icon of Eternal Virulence": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Icône de Virulence Infinie"
+      },
+      "Icon of Morr": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Icône de Morr"
+      },
+      "Icon of Rakaph": {
+        "name_de": "Standarte des Rakaph",
+        "name_es": "",
+        "name_fr": "Icône de Rakaph"
+      },
+      "Icon of Rulership*": {
+        "name_de": "Siegeszeichen*",
+        "name_es": "",
+        "name_fr": "Enseigne Royale*"
+      },
+      "Icon of Sorcery*": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Icône de Sorcellerie*"
+      },
+      "Icon of the Sacred Eye": {
+        "name_de": "Symbol des heiligen Auges",
+        "name_es": "",
+        "name_fr": "Icône de l'Œil Sacré"
+      },
+      "Idol of Gork": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Idole de Gork"
+      },
+      "Idol of Mork": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Idole de Mork"
+      },
+      "Imperial Banner": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Bannière Impériale"
+      },
+      "Infernal Enrapturess": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Enchantement Infernal"
+      },
+      "Infernal Puppet": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Marionnette Infernale"
+      },
+      "Iridescent Corona*": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Couronne Irisée*"
+      },
+      "Ironspike Shield": {
+        "name_de": "Eisenstachelschild",
+        "name_es": "",
+        "name_fr": "Bouclier Hérissé"
+      },
+      "Itxi Grub*": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Larve Itxi*"
+      },
+      "Jade Amulet*": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Amulette de Jade*"
+      },
+      "Jade Lion": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Lion de Jade"
+      },
+      "Jagged Dagger": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Dague Dentelée"
+      },
+      "Jaguar Standard": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Bannière du Jaguar"
+      },
+      "Kineater": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Mâche-frère"
+      },
+      "Laurels of Victory": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Lauriers de la Victoire"
+      },
+      "Lifetaker": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Exécutrice"
+      },
+      "Lion Standard": {
+        "name_de": "Löwenstandarte",
+        "name_es": "",
+        "name_fr": "Étendard du Lion"
+      },
+      "Longstrider": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Longues-jambes"
+      },
+      "Lord of the Night": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Chevalier des Ténèbres"
+      },
+      "Lore Familiar": {
+        "name_de": "Gelehrsamer Homunkulus",
+        "name_es": "",
+        "name_fr": "Familier de Savoir"
+      },
+      "Loremaster": {
+        "name_de": "Lehrmeister",
+        "name_es": "",
+        "name_fr": "Maître du Savoir"
+      },
+      "Luckstone*": {
+        "name_de": "Glückstein*",
+        "name_es": "",
+        "name_fr": "Pierre de Chance*"
+      },
+      "Lucky Heirloom*": {
+        "name_de": "Glücksbringendes Erbstück*",
+        "name_es": "",
+        "name_fr": "Charme Porte-bonheur*"
+      },
+      "Mace of Helsturm": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Masse de Helsturm"
+      },
+      "Manbane": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Fléau des Hommes"
+      },
+      "Manbane Standard": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Le Fléau des Hommes"
+      },
+      "Mangelder": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Émasculateur"
+      },
+      "Mantle of Stone*": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Manteau de Pierre*"
+      },
+      "Mantle of the Damsel Elena": {
+        "name_de": "Mantel der Elena",
+        "name_es": "",
+        "name_fr": "Manteau de Damoiselle Elena"
+      },
+      "Many Arms*": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Bras Multiples*"
+      },
+      "Many-limbed Fiend": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Monstre aux Membres Multiples"
+      },
+      "Martog's Best Basha": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Cogneur Trop Klass' de Martog"
+      },
+      "Master Rune of Adamant": {
+        "name_de": "Adamant-Meisterrune",
+        "name_es": "",
+        "name_fr": "Rune Majeure d'Inflexibilité"
+      },
+      "Master Rune of Alaric the Mad": {
+        "name_de": "Alaric Wirrkopfs Meisterrune",
+        "name_es": "",
+        "name_fr": "Rune Majeure d'Alaric le Fou"
+      },
+      "Master Rune of Balance": {
+        "name_de": "Meisterrune des Ausgleichs",
+        "name_es": "",
+        "name_fr": "Rune Majeure d'Équilibre"
+      },
+      "Master Rune of Breaking": {
+        "name_de": "Artefaktbrechende Meisterrune",
+        "name_es": "",
+        "name_fr": "Rune Majeure Brisante"
+      },
+      "Master Rune of Bursting Flame": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Rune Majeure d'Embrasement"
+      },
+      "Master Rune of Calm": {
+        "name_de": "Meisterrune der Flaute",
+        "name_es": "",
+        "name_fr": "Rune Majeure de Calme"
+      },
+      "Master Rune of Disguise": {
+        "name_de": "Meisterrune der Tarnung",
+        "name_es": "",
+        "name_fr": "Rune Majeure de Camouflage"
+      },
+      "Master Rune of Dragon Slaying": {
+        "name_de": "Meisterrune des Drachentötens",
+        "name_es": "",
+        "name_fr": "Rune Majeure Dracocide"
+      },
+      "Master Rune of Flight": {
+        "name_de": "Meisterrune der Flugkraft",
+        "name_es": "",
+        "name_fr": "Rune Majeure de Vol"
+      },
+      "Master Rune of Gromril": {
+        "name_de": "Gromril-Meisterrune",
+        "name_es": "",
+        "name_fr": "Rune Majeure de Gromril"
+      },
+      "Master Rune of Grungni": {
+        "name_de": "Grungnis Meisterrune",
+        "name_es": "",
+        "name_fr": "Rune Majeure de Grungni"
+      },
+      "Master Rune of Hesitation": {
+        "name_de": "Meisterrune des Zögerns",
+        "name_es": "",
+        "name_fr": "Rune Majeure d'Hésitation"
+      },
+      "Master Rune of Immolation": {
+        "name_de": "Meisterrune der Opferung",
+        "name_es": "",
+        "name_fr": "Rune Majeure d'Immolation"
+      },
+      "Master Rune of Piercing": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Rune Majeure de Perforation"
+      },
+      "Master Rune of Skalf Blackhammer": {
+        "name_de": "Skalf Schwarzhammers Meisterrune",
+        "name_es": "",
+        "name_fr": "Rune Majeure de Skalf Marteau Noir"
+      },
+      "Master Rune of Slaying": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Rune Majeure de Tuerie"
+      },
+      "Master Rune of Smiting": {
+        "name_de": "Meisterrune des Schadens",
+        "name_es": "",
+        "name_fr": "Rune Majeure de Frappe"
+      },
+      "Master Rune of Spite": {
+        "name_de": "Meisterrune des Trotzes",
+        "name_es": "",
+        "name_fr": "Rune Majeure d'Insulte"
+      },
+      "Master Rune of Stromni Redbeard": {
+        "name_de": "Stromni Rotbarts Meisterrune",
+        "name_es": "",
+        "name_fr": "Rune Majeure de Stomni Barberouge"
+      },
+      "Master Rune of Swiftness": {
+        "name_de": "Meisterrune der Flinkheit",
+        "name_es": "",
+        "name_fr": "Rune Majeure de Rapidité"
+      },
+      "Master of Mortals": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Maître des Mortels"
+      },
+      "Master of the Black Arts": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Maître des Arts Noirs"
+      },
+      "Mastodon Armour": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Armure Mastodonte"
+      },
+      "Mawseeker": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Cherche-gueule"
+      },
+      "Merciw's Locus": {
+        "name_de": "Merciws Ehre",
+        "name_es": "",
+        "name_fr": "Gemme de Merciw"
+      },
+      "Might of Khorne": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Puissance de Khorne"
+      },
+      "Mighty Serpent's Scalemail": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Cotte d'Écailles du Serpent"
+      },
+      "Mirage Banner": {
+        "name_de": "Trugbildbanner",
+        "name_es": "",
+        "name_fr": "Bannière du Mirage"
+      },
+      "Morning Star of Fracasse": {
+        "name_de": "Morgenstern von Fracasse",
+        "name_es": "",
+        "name_fr": "Fléau de Fracasse"
+      },
+      "Mountaineater": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Mange-montagne"
+      },
+      "Muscular Monstrosity": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Musculature Monstrueuse"
+      },
+      "Necklace of Blessed Teef": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Collier de Dents Bénies"
+      },
+      "Null Stone": {
+        "name_de": "Nullstein",
+        "name_es": "",
+        "name_fr": "Pierre de Nuit"
+      },
+      "Nurgling Infestation": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Infestation de Nurglings"
+      },
+      "Oaken Stave": {
+        "name_de": "Eichenholzstab",
+        "name_es": "",
+        "name_fr": "Bâton de Chêne"
+      },
+      "Obsidian Dread-Glaive": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Vouge d'Obsidienne"
+      },
+      "Obsidian Lodestone*": {
+        "name_de": "Großer Obsidiane*",
+        "name_es": "",
+        "name_fr": "Magnétite d'Obsidienne*"
+      },
+      "Obsidian Vambraces": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Crispins d'Obsidienne"
+      },
+      "Ogre Blade": {
+        "name_de": "Ogerklinge",
+        "name_es": "",
+        "name_fr": "Lame Ogre"
+      },
+      "Opal Amulet*": {
+        "name_de": "Opalamulett*",
+        "name_es": "",
+        "name_fr": "Amulette d'Opale*"
+      },
+      "Orb of Ptra": {
+        "name_de": "Sphäre des Ptra",
+        "name_es": "",
+        "name_fr": "Orbe de Ptra"
+      },
+      "Overseer's Sigil": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Sceau des Contremaîtres"
+      },
+      "Paymaster's Coin*": {
+        "name_de": "Münze des Zahlmeisters*",
+        "name_es": "",
+        "name_fr": "Pièce du Trésorier*"
+      },
+      "Pearl Daggers": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Dagues Nacrées"
+      },
+      "Pearl of Infinite Bleakness": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Perle de l'Infinie Tristesse"
+      },
+      "Pelt of Midnight": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Fourrure de la Nuit"
+      },
+      "Pelt of the Dark Young": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Pelisse de l'Enfant Noir"
+      },
+      "Pendant of Damnation": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Pendentif de Damnation"
+      },
+      "Pendant of Khaeleth": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Pendentif de Khaeleth"
+      },
+      "Phakth's Blades of Justice": {
+        "name_de": "Phakths Klingen der Gerechtigkeit",
+        "name_es": "",
+        "name_fr": "Lames de Justice de Phakth"
+      },
+      "Phâzerakt's Kanopi": {
+        "name_de": "Phâzerakts Kanope",
+        "name_es": "",
+        "name_fr": "Canope de Phâzerakt"
+      },
+      "Piranha Blade": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Lame Piranha"
+      },
+      "Poisonous Slime": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Mucus Empoisonné"
+      },
+      "Porko's Pigstikka": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Pik'goret de Porko"
+      },
+      "Potion of Foolhardiness*": {
+        "name_de": "Trank der Tollkühnheit*",
+        "name_es": "",
+        "name_fr": "Potion d'Impétuosité*"
+      },
+      "Potion of Speed*": {
+        "name_de": "Trank der Schnelligkeit*",
+        "name_es": "",
+        "name_fr": "Potion de Célérité*"
+      },
+      "Potion of Strength*": {
+        "name_de": "Stärketrank*",
+        "name_es": "",
+        "name_fr": "Potion de Force*"
+      },
+      "Potion of Toughness*": {
+        "name_de": "Widerstandstrank*",
+        "name_es": "",
+        "name_fr": "Potion d'Endurance*"
+      },
+      "Power Scroll*": {
+        "name_de": "Energiespruchrolle*",
+        "name_es": "",
+        "name_fr": "Parchemin de Pouvoir*"
+      },
+      "Power Vortex": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Vortex de Puissance"
+      },
+      "Prayer Icon of Quenelles": {
+        "name_de": "Gebetsikone der Quenelles",
+        "name_es": "",
+        "name_fr": "Icône de Quenelles"
+      },
+      "Primeval Club": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Massue Primordiale"
+      },
+      "Pure of Heart": {
+        "name_de": "Reinherzig",
+        "name_es": "",
+        "name_fr": "Pur de Coeur"
+      },
+      "Railarian's Mantle": {
+        "name_de": "Railarians Mantel",
+        "name_es": "",
+        "name_fr": "Cape de Railarian"
+      },
+      "Rampaging Banner": {
+        "name_de": "Banner der Rasereir",
+        "name_es": "",
+        "name_fr": "Bannière du Carnage"
+      },
+      "Rapturous Standard": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Étendard d'Enthousiasme"
+      },
+      "Razor Standard": {
+        "name_de": "Klingenstandarte",
+        "name_es": "",
+        "name_fr": "Étendard Tranchant"
+      },
+      "Reaver Bow": {
+        "name_de": "Jagdbogen",
+        "name_es": "",
+        "name_fr": "Arc du Patrouilleur"
+      },
+      "Relic of the Desert Sun": {
+        "name_de": "Reliquie der Wüstensonne",
+        "name_es": "",
+        "name_fr": "Relique du Soleil du Désert"
+      },
+      "Ring of Fortune": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Anneau de Fortune"
+      },
+      "Ring of Fury*": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Ring of Taal": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Anneau de Taal"
+      },
+      "Rod of the Damned": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Baguette des Damnés"
+      },
+      "Rotten Icon": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Icône Pourrie"
+      },
+      "Royal Mantle": {
+        "name_de": "Königlicher Umhang",
+        "name_es": "",
+        "name_fr": "Manteau Royal"
+      },
+      "Royal Standard of Settra": {
+        "name_de": "Königliche Standarte des Settra",
+        "name_es": "",
+        "name_fr": "Bannière Royale de Settra"
+      },
+      "Ruby Ring of Ruin": {
+        "name_de": "Rubinring der Zerstörung",
+        "name_es": "",
+        "name_fr": "Anneau Rubis de Ruine"
+      },
+      "Rune Maw": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Rune de La Gueule"
+      },
+      "Rune of Accuracy": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Rune de Précision"
+      },
+      "Rune of Banishment": {
+        "name_de": "Bannrune",
+        "name_es": "",
+        "name_fr": "Rune de Bannissement"
+      },
+      "Rune of Battle": {
+        "name_de": "Kampfrune",
+        "name_es": "",
+        "name_fr": "Rune de Bataille"
+      },
+      "Rune of Blazing Fury": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Rune de Fureur Incandescente"
+      },
+      "Rune of Burning": {
+        "name_de": "Brandrune",
+        "name_es": "",
+        "name_fr": "Rune d'Incanescence"
+      },
+      "Rune of Cleaving*": {
+        "name_de": "Schmetterrune*",
+        "name_es": "",
+        "name_fr": "Rune de Perforation*"
+      },
+      "Rune of Concussive Force": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Rune de Force Percutante"
+      },
+      "Rune of Confusion": {
+        "name_de": "Rune der Unordnung",
+        "name_es": "",
+        "name_fr": "Rune de Confusion"
+      },
+      "Rune of Courage": {
+        "name_de": "Mutrune",
+        "name_es": "",
+        "name_fr": "Rune de Courage"
+      },
+      "Rune of Endless Battle": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Rune des Batailles Éternelles"
+      },
+      "Rune of Fear": {
+        "name_de": "Angstrune",
+        "name_es": "",
+        "name_fr": "Rune de Peur"
+      },
+      "Rune of Fire": {
+        "name_de": "Feuerrune",
+        "name_es": "",
+        "name_fr": "Rune de Feu"
+      },
+      "Rune of Forging*": {
+        "name_de": "Schmiederune*",
+        "name_es": "",
+        "name_fr": "Rune de Forge*"
+      },
+      "Rune of Fortitude*": {
+        "name_de": "Ausdauerrune*",
+        "name_es": "",
+        "name_fr": "Rune de Robustesse*"
+      },
+      "Rune of Fury*": {
+        "name_de": "Wutrune*",
+        "name_es": "",
+        "name_fr": "Rune de Fureur*"
+      },
+      "Rune of Grit": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Rune de Granit"
+      },
+      "Rune of Iron": {
+        "name_de": "Eisenrune",
+        "name_es": "",
+        "name_fr": "Rune de Fer"
+      },
+      "Rune of Khaine": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Rune de Khaine"
+      },
+      "Rune of Luck*": {
+        "name_de": "Glücksrune*",
+        "name_es": "",
+        "name_fr": "Rune de Chance*"
+      },
+      "Rune of Might*": {
+        "name_de": "Kraftrune*",
+        "name_es": "",
+        "name_fr": "Rune de Force*"
+      },
+      "Rune of Molten Steel": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Rune d'Acier en Fusion"
+      },
+      "Rune of Parrying": {
+        "name_de": "Paraderune",
+        "name_es": "",
+        "name_fr": "Rune de Parade"
+      },
+      "Rune of Passage": {
+        "name_de": "Rune der Wege",
+        "name_es": "",
+        "name_fr": "Rune de Passage"
+      },
+      "Rune of Preservation": {
+        "name_de": "Unverwundbarkeitsrune",
+        "name_es": "",
+        "name_fr": "Rune de Préservation"
+      },
+      "Rune of Rapid Fire": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Rune de Tir Rapide"
+      },
+      "Rune of Reloading": {
+        "name_de": "Rune des Nachladens",
+        "name_es": "",
+        "name_fr": "Rune de Rechargement"
+      },
+      "Rune of Shielding*": {
+        "name_de": "Pfeilbannrune*",
+        "name_es": "",
+        "name_fr": "Rune de Protection*"
+      },
+      "Rune of Skewering": {
+        "name_de": "Rune des Durchbohrens",
+        "name_es": "",
+        "name_fr": "Rune de Pénétration"
+      },
+      "Rune of Speed*": {
+        "name_de": "Schnelligkeitsrune*",
+        "name_es": "",
+        "name_fr": "Rune de Vitesse*"
+      },
+      "Rune of Spellbreaking*": {
+        "name_de": "Magiebannende Rune*",
+        "name_es": "",
+        "name_fr": "Rune Tueuse de Sort*"
+      },
+      "Rune of Stone*": {
+        "name_de": "Steinrune*",
+        "name_es": "",
+        "name_fr": "Rune de Pierre*"
+      },
+      "Rune of Striking*": {
+        "name_de": "Rune der Geschicklichkeit*",
+        "name_es": "",
+        "name_fr": "Rune de Frappe*"
+      },
+      "Rune of Warding*": {
+        "name_de": "Schutzrune*",
+        "name_es": "",
+        "name_fr": "Rune d'Invulnérabilité*"
+      },
+      "Rune of Wrath": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Rune de Rage"
+      },
+      "Rune of the Beast Ascendant": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Rune de la Bête Ascendante"
+      },
+      "Rune of the Dauntless": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Rune de l'Intrépide"
+      },
+      "Rune of the Dishonoured": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Rune du Déshonoré"
+      },
+      "Rune of the Furnace": {
+        "name_de": "Schmiedefeuerrune",
+        "name_es": "",
+        "name_fr": "Rune du Fourneau"
+      },
+      "Rune of the Hateful": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Rune du Haineux"
+      },
+      "Rune of the Reckless": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Rune du Téméraire"
+      },
+      "Rune of the True Beast": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Rune de la Vraie Bête"
+      },
+      "Runefang": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Croc Runique"
+      },
+      "Sacrament of the Lady*": {
+        "name_de": "Hostie der Herrin des Sees*",
+        "name_es": "",
+        "name_fr": "Sacrement de la Dame*"
+      },
+      "Sacred Incense": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Scarab Brooch": {
+        "name_de": "Scarabäenbrosche",
+        "name_es": "",
+        "name_fr": "Broche du Scarabée"
+      },
+      "Sceptre of De Noirot": {
+        "name_de": "Das Zepter von De Noirot",
+        "name_es": "Cetro de De Noirot",
+        "name_fr": "Sepctrez de Jacques De Noirot"
+      },
+      "Sceptre of Power": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Sceptre de Puissance"
+      },
+      "Scimitar of the Sun Resplendent": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Cimeterre du Soleil Resplandissant"
+      },
+      "Scroll of Binding*": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Parchemin d'Asservissement*"
+      },
+      "Scroll of Transmogrification*": {
+        "name_de": "Schriftrolle der Verwandlung*",
+        "name_es": "",
+        "name_fr": "Parchemin de Transmutation*"
+      },
+      "Sea Guard": {
+        "name_de": "Seegarde",
+        "name_es": "",
+        "name_fr": "Garde Maritime"
+      },
+      "Sea Raider's Crest": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Cimier du Pillard des Mers"
+      },
+      "Seed of Rebirth*": {
+        "name_de": "Samen der Wiedergeburt*",
+        "name_es": "",
+        "name_fr": "Graine de Renaissance*"
+      },
+      "Serpent Staff": {
+        "name_de": "Schlangenstab",
+        "name_es": "",
+        "name_fr": "Bâton Serpent"
+      },
+      "Shadow Magnet": {
+        "name_de": "Schattenmagnet",
+        "name_es": "Imán de sombra",
+        "name_fr": "Breloque d'Obscurité Magnétique"
+      },
+      "Shadow Stalker": {
+        "name_de": "Schattenpirscher",
+        "name_es": "",
+        "name_fr": "Rôdeur des Ombres"
+      },
+      "Shield of Ghrond": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Bouclier de Ghrond"
+      },
+      "Shield of Ptra": {
+        "name_de": "Schild des Ptra",
+        "name_es": "",
+        "name_fr": "Bouclier de Ptra"
+      },
+      "Shield of the Gorgon": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Bouclier de la Gorgone"
+      },
+      "Shield of the Mirror Pool": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Bouclier du Bassin Miroitant"
+      },
+      "Shield of the Warrior True": {
+        "name_de": "Schild des Wahren Kriegerse",
+        "name_es": "",
+        "name_fr": "Bouclier du Guerrier Véritable"
+      },
+      "Shroud of Iron": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Linceul de Fer"
+      },
+      "Shroud of the Ancestor": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Suaire de l'Ancêtre"
+      },
+      "Sigil of Asuryan*": {
+        "name_de": "Asuryans Sigille*",
+        "name_es": "",
+        "name_fr": "Signe d'Asuryan*"
+      },
+      "Sigil of Centuries": {
+        "name_de": "Siegel der Jahrhunderte",
+        "name_es": "",
+        "name_fr": "Icône des Siècles"
+      },
+      "Silver Mirror": {
+        "name_de": "Silberspigel",
+        "name_es": "",
+        "name_fr": "Miroir d'Argent"
+      },
+      "Silvery Wand": {
+        "name_de": "Silberstab",
+        "name_es": "",
+        "name_fr": "Baguette d'Argent"
+      },
+      "Siren Song": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Chant de la Sirène"
+      },
+      "Siren Standard": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Étendard de la Sirène"
+      },
+      "Sirienne's Locket": {
+        "name_de": "Siriennes Medaillon",
+        "name_es": "",
+        "name_fr": "Médaillon de Sirienne"
+      },
+      "Skalm": {
+        "name_de": "",
+        "name_es": "Skálm",
+        "name_fr": "Skataplasme"
+      },
+      "Skavenbrew*": {
+        "name_de": "",
+        "name_es": "Cerveza Skaven*",
+        "name_fr": "Breuvage Skaven*"
+      },
+      "Skavenpelt Banner": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Bannière en Peau de skaven"
+      },
+      "Skin of Man": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Peau d'Homme"
+      },
+      "Skull Staff": {
+        "name_de": "Schädel-Stab",
+        "name_es": "Bastón de calavera",
+        "name_fr": "Bâton de Crâne"
+      },
+      "Skull Totem": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Totem des Crânes"
+      },
+      "Skull of Katam": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Crâne de Katam"
+      },
+      "Skullplucker": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Vide-crâne"
+      },
+      "Slayer's Hourglass": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Sablier du Tueur"
+      },
+      "Sloppity Bilepiper": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Comique Trippier"
+      },
+      "Slug-skin": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Peau de Limace"
+      },
+      "Soporific Musk*": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Musc Soporifique*"
+      },
+      "Sorcerous Void": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Présence Surnaturelle"
+      },
+      "Soul of Stone": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Âme de Marbre"
+      },
+      "Spangleshard": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Éclat Scintillant"
+      },
+      "Sparkly Wizard Finda": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Trouve-Mage Scintillant"
+      },
+      "Spear of Twilight": {
+        "name_de": "Zwielichtspeer",
+        "name_es": "",
+        "name_fr": "Lance du Crépuscule"
+      },
+      "Spell Eater": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Mange Sorts"
+      },
+      "Spell Familiar*": {
+        "name_de": "Vertrauter Zauber*",
+        "name_es": "Hechizo familiar*",
+        "name_fr": "Familier de Sort*"
+      },
+      "Spelleater Axe": {
+        "name_de": "Magiefresserbeil",
+        "name_es": "",
+        "name_fr": "Hache Mange-sorts"
+      },
+      "Spellshield*": {
+        "name_de": "Zauberspruchschild*",
+        "name_es": "",
+        "name_fr": "Bouclier d'Anti-magie*"
+      },
+      "Spellthieving Sword": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Épée Voleuse de Sorts"
+      },
+      "Spiteful Shield": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Bouclier Rancunier"
+      },
+      "Spoilpox Scrivener": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Scribe Gâchevariole"
+      },
+      "Squintsoffen's Marvellous Magnifier*": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Merveilleux Télescope de Lorgnegraf*"
+      },
+      "Staff of Aeons": {
+        "name_de": "Stab der Äonen",
+        "name_es": "",
+        "name_fr": "Bâton des Éons"
+      },
+      "Staff of Awakening": {
+        "name_de": "Stab des Erweckens",
+        "name_es": "",
+        "name_fr": "Bâton d'Éveil"
+      },
+      "Staff of Baduumm": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Bâton de Badoumm"
+      },
+      "Staff of Change": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Bâton du Changement"
+      },
+      "Staff of Solidity": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Staff of the Lost Sun": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Bâton du Soleil Perdu"
+      },
+      "Stalwart Rune": {
+        "name_de": "Rune der Standhaftigkeit",
+        "name_es": "",
+        "name_fr": "Rune d'Obstination"
+      },
+      "Standard of Chaotic Glory": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Étendard de Gloire Chaotique"
+      },
+      "Standard of Hellish Vigour": {
+        "name_de": "Standarte der höllischen Kraft",
+        "name_es": "Estandarte de vigor infernal",
+        "name_fr": "Étendard de Vigueur Infernale"
+      },
+      "Standard of Seeping Decay": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Étendard de la Décrépitude Purulente"
+      },
+      "Standard of Slaughter": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Étendard du Massacre"
+      },
+      "Standard of the Cursing Word": {
+        "name_de": "Banner der Verfluchung",
+        "name_es": "",
+        "name_fr": "Étendard de Malédiction"
+      },
+      "Star Lance": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Stone of Spite": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Pierre de Rancœur"
+      },
+      "Storm Banner": {
+        "name_de": "Sturmbanner",
+        "name_es": "Estandarte de tormenta",
+        "name_fr": "Bannière d'Orage"
+      },
+      "Storm Daemon": {
+        "name_de": "Sturmdämon",
+        "name_es": "Demonio de la tormenta",
+        "name_fr": "Orbe des Tempêtes"
+      },
+      "Stream of Contagion*": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Flot de bile*"
+      },
+      "Strollaz' Rune": {
+        "name_de": "Marschrune",
+        "name_es": "",
+        "name_fr": "Rune de Strollaz"
+      },
+      "Sun Standard of Chotec": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Étendard du Soleil de Chotec"
+      },
+      "Supernatural Horror": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Horreur Surnaturelle"
+      },
+      "Sword of Battle": {
+        "name_de": "Schlachtenklinge",
+        "name_es": "",
+        "name_fr": "Épée de Bataille"
+      },
+      "Sword of Heroes": {
+        "name_de": "Heldenschwert",
+        "name_es": "",
+        "name_fr": "Épée des Héros"
+      },
+      "Sword of Justice": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Épée de Justice"
+      },
+      "Sword of Kings": {
+        "name_de": "Schwert der Könige",
+        "name_es": "Espada de reyes",
+        "name_fr": "Épée des Rois"
+      },
+      "Sword of Might*": {
+        "name_de": "Schwert der Macht*",
+        "name_es": "",
+        "name_fr": "Épée de Puissance*"
+      },
+      "Sword of Ruin": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Épée de la Ruine"
+      },
+      "Sword of Striking*": {
+        "name_de": "Behende Klinge*",
+        "name_es": "",
+        "name_fr": "Épée de Frappe*"
+      },
+      "Sword of Swiftness": {
+        "name_de": "Geschwinde Klinge",
+        "name_es": "",
+        "name_fr": "Épée de Vivacité"
+      },
+      "Sword of the Quest": {
+        "name_de": "Schwert der Queste",
+        "name_es": "",
+        "name_fr": "Épée de la Quête"
+      },
+      "Sword of the Stout Hearted": {
+        "name_de": "Schwert des tapferen Herzens",
+        "name_es": "",
+        "name_fr": "Épée du Cœur Vaillant"
+      },
+      "Tablets of Tahoth*": {
+        "name_de": "Tafeln des Tahoth*",
+        "name_es": "",
+        "name_fr": "Tablettes de Tahoth*"
+      },
+      "Talisman of Protection": {
+        "name_de": "Talisman des Schutzes",
+        "name_es": "",
+        "name_fr": "Talisman de Protection"
+      },
+      "Talisman of the Carrion Crow": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Talisman du Corbeau Charognard"
+      },
+      "Talisman of the Soaring Eagle": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Talisman de l'Aigle"
+      },
+      "Tapestry of Conquered Lands": {
+        "name_de": "Gobelin der eroberten Länder",
+        "name_es": "",
+        "name_fr": "Tapisserie des Terres Conquises"
+      },
+      "Tapestry of Sigmar's Triumph": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Tapisserie du Triomphe de Sigmar"
+      },
+      "Taskmaster's Scourge": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Fouet du Garde-chiourme"
+      },
+      "Tenderiser": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Attendrisseur"
+      },
+      "The Accursed Armour": {
+        "name_de": "Die verfluchte Rüstung",
+        "name_es": "La armadura maldita",
+        "name_fr": "Armure Maudite"
+      },
+      "The Banner of Lothern": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "The Banner of the Free State of Nuln": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Bannière de la Cité-État Franche de Nuln"
+      },
+      "The Big Red Raggedy Flag": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Le Grand Drapeau Rouj'"
+      },
+      "The Blackened Plate": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "L'Armure Noircie"
+      },
+      "The Blade of Leaping Gold": {
+        "name_de": "Die Schnelle Goldklinge",
+        "name_es": "",
+        "name_fr": "Lame d'Or Bondissant"
+      },
+      "The Blazing Banner": {
+        "name_de": "Flammenstandarte",
+        "name_es": "",
+        "name_fr": "Bannière Incandescente"
+      },
+      "The Cloak of Beards": {
+        "name_de": "Der Bartmantel",
+        "name_es": "",
+        "name_fr": "Cape de Barbes"
+      },
+      "The Collar of Zorga": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Le Collier de Zorga"
+      },
+      "The Conqueror's Blade": {
+        "name_de": "Die Klinge des Eroberers",
+        "name_es": "",
+        "name_fr": "La Lame du Conquérant"
+      },
+      "The Fellblade": {
+        "name_de": "Die Fellklinge",
+        "name_es": "La hoja caída",
+        "name_fr": "Lame Fatale"
+      },
+      "The Flayed Hauberk": {
+        "name_de": "Der gehäutete Hauberk",
+        "name_es": "El Hauberk desollado",
+        "name_fr": "Haubert de l'Écorché"
+      },
+      "The Gleaming Pennant": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Le Fanion Étincelant"
+      },
+      "The Golden Shield": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "The Graven Sceptre": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Le Sceptre Gravé"
+      },
+      "The Guiding Eye": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Œil de Guidance"
+      },
+      "The Lammasu's Beard": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Barbe du Lammasu"
+      },
+      "The Loremaster's Cloak": {
+        "name_de": "Umhang des Lehrmeisters",
+        "name_es": "",
+        "name_fr": "Cape du Maître du Savoir"
+      },
+      "The Mask of the Furnace": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Le Masque de Fournaise"
+      },
+      "The Plague Chalice": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Le Calice Pestilentiel"
+      },
+      "The Screaming Banner": {
+        "name_de": "Das schreiende Banner",
+        "name_es": "La bandera de los gritos",
+        "name_fr": "Bannière Hurlante"
+      },
+      "The Seal of Parravon": {
+        "name_de": "Das Siegel von Parravon",
+        "name_es": "",
+        "name_fr": "Le Sceau de Parravon"
+      },
+      "The Silver Horn": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Le Cor d'Argent"
+      },
+      "The Trickster's Pendant": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "The Vortex Shard": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "The White Cloak": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "La Cape Blanche"
+      },
+      "The White Sword": {
+        "name_de": "Das Weiße Schwert",
+        "name_es": "",
+        "name_fr": "Épée Blanche"
+      },
+      "Thundermace": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Masse-tonnerre"
+      },
+      "Tome of Furion": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Livre de Furion"
+      },
+      "Tome of Midnight": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Tome de Minuit"
+      },
+      "Tome of the Dark Gods": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Tome des Dieux Sombres"
+      },
+      "Totem of Eternal War": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Totem de la Guerre Éternelle"
+      },
+      "Totem of Prophecy": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Totem de Prophétie"
+      },
+      "Totem of Rust": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Totem de Rouille"
+      },
+      "Transcendent Healing": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Guérison Transcendantale"
+      },
+      "Trappings of Nurgle": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Atours de Nurgle"
+      },
+      "Trollhide Trousers*": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Pantalons en Peau d'Troll*"
+      },
+      "Twice-Blessed Armour": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Armure Deux Fois Bénie"
+      },
+      "Twin Heads": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Têtes Jumelles"
+      },
+      "Twin-Tailed Wand": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Baguette à Deux Queues"
+      },
+      "Uncanny Senses": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Perception Surnaturelle"
+      },
+      "Valorous Standard": {
+        "name_de": "Standarte des Heldenmuts",
+        "name_es": "",
+        "name_fr": "Étendard de Bravoure"
+      },
+      "Venom of the Firefly Frog": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Venin du Crapaud Luciole"
+      },
+      "Vial of Lammasu Blood": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Fiole de Sang de Lammasu"
+      },
+      "Virtue of Audacity": {
+        "name_de": "Tugend des Heldenmuts",
+        "name_es": "",
+        "name_fr": "Vertu de Témérité"
+      },
+      "Virtue of Confidence": {
+        "name_de": "Tugend des Selbstvertrauens",
+        "name_es": "",
+        "name_fr": "Vertu de Confiance"
+      },
+      "Virtue of Discipline": {
+        "name_de": "Tugend der Disziplin",
+        "name_es": "",
+        "name_fr": "Vertu de Discipline"
+      },
+      "Virtue of Duty": {
+        "name_de": "Tugend der Pflicht",
+        "name_es": "",
+        "name_fr": "Vertu du Devoir"
+      },
+      "Virtue of Empathy": {
+        "name_de": "Tugend der Barmherzigkeit",
+        "name_es": "",
+        "name_fr": "Vertu de Sollicitude"
+      },
+      "Virtue of Heroism": {
+        "name_de": "Tugend der Tapferkeit",
+        "name_es": "",
+        "name_fr": "Vertu d'Héroïsme"
+      },
+      "Virtue of Knightly Temper": {
+        "name_de": "Tugend des ritterlichen Zorns",
+        "name_es": "",
+        "name_fr": "Vertu du Tempérament Chevaleresque"
+      },
+      "Virtue of Noble Disdain": {
+        "name_de": "Tugend der ritterlichen Verachtungn",
+        "name_es": "",
+        "name_fr": "Vertu de Noble Dédain"
+      },
+      "Virtue of Purity": {
+        "name_de": "Tugend der Reinheit",
+        "name_es": "",
+        "name_fr": "Vertu de Pureté"
+      },
+      "Virtue of Stoicism": {
+        "name_de": "Tugend der Sturheit",
+        "name_es": "",
+        "name_fr": "Vertu de Stoïcisme"
+      },
+      "Virtue of the Ideal": {
+        "name_de": "Tugend des ritterlichen Ideals",
+        "name_es": "",
+        "name_fr": "Vertu de l'Idéal"
+      },
+      "Virtue of the Impetuous Knight": {
+        "name_de": "Tugend des ungestümen Ritters",
+        "name_es": "",
+        "name_fr": "Vertu du Chevalier Impétueux"
+      },
+      "Virtue of the Joust": {
+        "name_de": "Tugend der Tjoste",
+        "name_es": "",
+        "name_fr": "Vertu de la Joute"
+      },
+      "Virtue of the Penitent": {
+        "name_de": "Tugend der Entsagung",
+        "name_es": "",
+        "name_fr": "Vertu du Pénitent"
+      },
+      "Vitriolic Totem": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Totem Vitriol"
+      },
+      "Von Carstein Ring": {
+        "name_de": "Von-Carstein-Ring",
+        "name_es": "Anillo de Von Carstein",
+        "name_fr": "Anneaux des Carstein"
+      },
+      "Von Trickschotte's Wondrous Arquebus": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Merveilleuse Arquebuse de Von Feymusch"
+      },
+      "Waaagh! Banner": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Bannière Waaagh!"
+      },
+      "Wailing Arrow*": {
+        "name_de": "Heulender Pfeil*",
+        "name_es": "",
+        "name_fr": "Flèche Hurlante*"
+      },
+      "Wand of Jet": {
+        "name_de": "Pechkohlen-Zauberstab",
+        "name_es": "",
+        "name_fr": "Baguette de Jais"
+      },
+      "Wand of Wych Elm": {
+        "name_de": "Stab der Bergulme",
+        "name_es": "",
+        "name_fr": "Baguette d'Orme Blanc"
+      },
+      "Wandering Deliberations": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Réflexions Vagabondes"
+      },
+      "War Banner": {
+        "name_de": "Kriegsbanner",
+        "name_es": "",
+        "name_fr": "Bannière de Guerre"
+      },
+      "Warden of Saphery": {
+        "name_de": "Wächter von Saphery",
+        "name_es": "",
+        "name_fr": "Gardien de Saphery"
+      },
+      "Warding Splint": {
+        "name_de": "Schützende Schiene",
+        "name_es": "",
+        "name_fr": "Éclisse Protectrice"
+      },
+      "Warp Condenser": {
+        "name_de": "Warp-Kondensator",
+        "name_es": "Condensador de deformación",
+        "name_fr": "Condensateur d'Énergie Magique"
+      },
+      "Warpstone Amulet": {
+        "name_de": "Warpstein-Amulett",
+        "name_es": "Amuleto de piedra bruja",
+        "name_fr": "Amulette de Malepierre"
+      },
+      "Warpstone Armour*": {
+        "name_de": "Warpstein-Rüstung*",
+        "name_es": "Armadura de piedra bruja*",
+        "name_fr": "Armure d'Éclats de Malepierre*"
+      },
+      "Warpstone Tokens*": {
+        "name_de": "Warpstein-Token*",
+        "name_es": "Fichas de piedra bruja*",
+        "name_fr": "Fragments de Malepierre*"
+      },
+      "Warrior's Rune": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Rune du Guerrier"
+      },
+      "Weeping Blade": {
+        "name_de": "Weinende Klinge",
+        "name_es": "Hoja llorona",
+        "name_fr": "Lame Suintante"
+      },
+      "Whip of Agony": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Fouet de l'Agonie"
+      },
+      "Will of Tzeentch": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Volonté de Tzeentch"
+      },
+      "Winged Horror": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Horreur Ailée"
+      },
+      "Witch Hunter's Ward*": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Amulette du Répurgateur*"
+      },
+      "Witchbrew": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Brouet de Sang"
+      },
+      "Wizard's Familiar*": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Familier de Sorcier*"
+      },
+      "Wizard's Staff*": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Bâton de Sorcier*"
+      },
+      "Wizarding Hat": {
+        "name_de": "Zauberhut",
+        "name_es": "",
+        "name_fr": "Chapeau de Magicien"
+      },
+      "Wollopa's One Hit Wunda": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Tap'K'un Koup de Wollopa"
+      },
+      "Woodsman's Axe": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": ""
+      },
+      "Wraithstone": {
+        "name_de": "Seelenstein",
+        "name_es": "",
+        "name_fr": "Pierre Spectrale"
+      },
+      "Wyrmbreath Vial": {
+        "name_de": "Wyrmatem-Fläschchen",
+        "name_es": "",
+        "name_fr": "Fiole de Souffle Ardent"
+      },
+      "Æther Blade": {
+        "name_de": "",
+        "name_es": "",
+        "name_fr": "Lame d'Éther"
+      }
+    }
+  }
+}
